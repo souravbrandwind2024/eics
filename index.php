@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,7 +58,7 @@
       <div class="container">
           <div class="row">
               <nav class="navbar navbar-expand-lg navbar-light">
-                  <a class="navbar-brand" href="index.html">
+                  <a class="navbar-brand" href="/">
                       <img src="images/logo.png" loading="lazy" alt=""/>
                   </a>
                   <button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -68,7 +69,7 @@
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
                       <ul class="navbar-nav ml-auto py-4 py-md-0">
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4 active">
-                              <a class="nav-link underline" href="index.html">Home</a>
+                              <a class="nav-link underline" href="/">Home</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                             <a class="nav-link underline" href="about-us.html">About</a>
@@ -125,7 +126,7 @@
                             </ul>
                         </li>
                         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="contact-us.html">Contact Us</a>
+                            <a class="nav-link underline" href="contact-us.php">Contact Us</a>
                         </li>
                       </ul>
                   </div>
@@ -895,7 +896,7 @@
 <!-- blog-area-end -->
 
 <!-- contact-us-area-start -->
-<section class="home-contact section">
+<section class="home-contact section" id="home-contact">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -908,18 +909,31 @@
             <div class="col-lg-8">
                 <div class="inner-area">
                     <!-- <h4>Send us a Message</h4> -->
-                    <form class="custom-form">
+                     <!-- After submit alert -->
+                    <?php if(isset($_SESSION['error'])): ?>
+                        <div class="alert alert-danger" role="alert">
+                            <p><?php echo $_SESSION['error']; ?></p>
+                        </div>
+                    <?php unset($_SESSION['error']); endif; ?>
+                    <?php if(isset($_SESSION['success'])): ?>
+                        <div class="alert alert-success" role="alert">
+                            <p><?php echo $_SESSION['success']; ?></p>
+                        </div>
+                    <?php unset($_SESSION['success']); endif; ?>
+                    <!-- After submit alert -->
+                    <form class="custom-form" method="POST" action="/submit-contact.php">
+                        <input type="hidden" name="redirect" value="/">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="form-group">
-                                    <label for="exampleInputEmail1">Your Name*</label>
-                                    <input type="text" class="form-control" id="exampleInputEmail1">
+                                    <label for="first_name">First Name*</label>
+                                    <input type="text" class="form-control" id="first_name" name="first_name" placeholder="First Name*" required>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="form-group">
-                                    <label for="exampleInputEmail1">Last Name*</label>
-                                    <input type="text" class="form-control" id="exampleInputEmail1">
+                                    <label for="last_name">Last Name</label>
+                                    <input type="text" class="form-control" id="last_name" name="last_name" placeholder="Last Name">
                                 </div>
                             </div>
                         </div>
@@ -927,29 +941,30 @@
                       <div class="row">
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <label for="exampleInputEmail3">Your Email</label>
-                                <input type="email" class="form-control" id="exampleInputEmail3">
+                                <label for="email">Email*</label>
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Email*">
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="form-group">
-                                <label for="exampleInputEmail3">Phone</label>
-                                <input type="number" class="form-control" id="exampleInputEmail3">
+                                <label for="mobile">Phone number*</label>
+                                <input type="number" class="form-control" id="mobile" name="phone" placeholder="Phone number*" required>
                             </div>
                         </div>
                       </div>
                       <div class="row">
                         <div class="col-lg-12">
                             <div class="form-group last">
-                                <label for="exampleInputEmail1">Massage*</label>
-                                <textarea type="text" class="form-control-2" id="exampleFormControlTextarea1" rows="5" name="massage"></textarea>
+                                <label for="message_input">Massage*</label>
+                                <textarea placeholder="Type your query here ..." type="text" class="form-control-2" id="message_input" rows="5" name="message" required></textarea>
                             </div>
                         </div>
                       </div>
+                      <div class="button-area text-center">
+                        <button type="submit" class="cstm-btn">Submit</button>
+                        </div>
                     </form>
-                    <div class="button-area text-center">
-                        <button type="button" class="cstm-btn">Submit</button>
-                    </div>
+                    
                 </div>
             </div>
             <aside class="col-lg-4">
@@ -1004,7 +1019,7 @@
         <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-50">
         <div class="it-footer-widget footer-col-1">
         <div class="it-footer-logo pb-25">
-        <a href="index.html">
+        <a href="/">
             <!-- <img src="images/logo.png" loading="lazy" alt=""> -->
             Education India Career Services
         </a>
@@ -1048,7 +1063,7 @@
         <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
         <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
         <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
-        <li><a href="contact-us.html"><i class="fas fa-angle-right"></i>Contact Us</a></li>
+        <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
         </div>

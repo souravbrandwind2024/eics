@@ -12,20 +12,20 @@ function validatePhoneNumber($phoneNumber) {
 
 // Function to redirect with an error message
 function redirectWithError($errorMessage) {
-    $redirectUrl = '/quiz.html'; // Change this to your actual error page URL
-    if(isset($_POST['result'])){
-        $redirectUrl .= "?result=" . $_POST['result'];
-    }
+    $redirectUrl = isset($_POST['redirect']) ?  $_POST['redirect'] : '/'; // Change this to your actual error page URL
+    // if(isset($_POST['result'])){
+    //     $redirectUrl .= "?result=" . $_POST['result'];
+    // }
     $_SESSION['error'] = $errorMessage;
-    exit($errorMessage);
-    // header("Location: {$redirectUrl}");
-    // exit();
+    // exit($errorMessage);
+    header("Location: {$redirectUrl}");
+    exit();
 }
 
 
-if(!isset($_POST['result'])){
-    redirectWithError('Please complete the quiz!');
-}
+// if(!isset($_POST['result'])){
+//     redirectWithError('Please complete the quiz!');
+// }
 
 // Validate name
 if (empty($_POST['first_name']) || strlen($_POST['first_name']) > 255) {
@@ -82,7 +82,7 @@ function sendMail($data){
         $mail->send();
         
         $_SESSION['success'] = 'Request submitted, we will get back to you very soon.';
-        header("Location: /quiz.html?result=" . $_POST['result']);
+        header("Location: " . (isset($_POST['redirect']) ?  $_POST['redirect'] : '/'));
         exit();
     }catch(Exception $e){
         // print_r($e);
