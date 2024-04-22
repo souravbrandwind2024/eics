@@ -229,6 +229,10 @@
 }
 /* Small devices (landscape phones, less than 768px) */
 @media (max-width: 767px) {
+  .it-footer-list ul li a{
+    font-size: 14px;
+    line-height: 24px;
+  }
   .post .post-meta:not(:first-child){
     margin-bottom: 10px;
   }

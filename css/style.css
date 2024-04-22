@@ -781,7 +781,7 @@ input:-webkit-autofill:focus {
 .it-footer-list ul li {
   list-style-type: none;
   position: relative;
-  padding-left: 30px;
+  padding-left: 21px;
 }
 .it-footer-list ul li:not(:last-child) {
   margin-bottom: 10px;
@@ -789,6 +789,7 @@ input:-webkit-autofill:focus {
 .it-footer-list ul li a {
   color: #ffffff;
   font-size: 15px;
+  line-height: 25px;
   font-weight: 400;
   text-transform: capitalize;
   display: inline-block;
