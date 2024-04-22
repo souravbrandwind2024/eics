@@ -1,0 +1,12 @@
+{
+  "name": "eics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "php -S localhost:3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
