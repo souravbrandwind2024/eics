@@ -12,7 +12,7 @@ function validatePhoneNumber($phoneNumber) {
 
 // Function to redirect with an error message
 function redirectWithError($errorMessage) {
-    $redirectUrl = '/quiz.html'; // Change this to your actual error page URL
+    $redirectUrl = '/quiz.php'; // Change this to your actual error page URL
     if(isset($_POST['result'])){
         $redirectUrl .= "?result=" . $_POST['result'];
     }
@@ -82,7 +82,7 @@ function sendMail($data){
         $mail->send();
         
         $_SESSION['success'] = 'Request submitted, we will get back to you very soon.';
-        header("Location: /quiz.html?result=" . $_POST['result']);
+        header("Location: /quiz.php?result=" . $_POST['result']);
         exit();
     }catch(Exception $e){
         // print_r($e);
