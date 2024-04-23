@@ -21,12 +21,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <!-- <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i&display=swap" rel="stylesheet"> -->
-
     <!-- signika-google-font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap" rel="stylesheet">
-
     <!--slick-css-->
     <link href="css/plugins/slick.css" rel="stylesheet">
     <link href="css/plugins/slick-theme.css" rel="stylesheet">
@@ -70,23 +68,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -116,11 +114,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.html">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.html">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.html">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -135,53 +133,88 @@
 </header>
 <!-- menu-area-end -->
 
-<!-- about-us-area-start -->
-<section class="aboutsection section">
+<!-- services-details-area-start -->
+<section class="health-happy-services section">
     <div class="container">
         <div class="row">
-            <div class="col-md-5">
-                <div class="aboutimg">
-                    <img src="images/about-latest.jpg" loading="lazy" alt="">
-                </div>
-            </div>  
-            <div class="col-md-7">
-                <div class="heading">
-                    <h1 class="txt-top">Our Commitment</h1>
-                </div>
-                    <div class="content-area">
-                        <p>
-                            At EICS, we understand the complexities and challenges students face on the path to medical education. Our mission is to simplify this journey by offering seamless admission to both undergraduate and postgraduate medical courses.
-                          </p>
-                        <ul>
-                            <li>
-                                <span><i class="far fa-dot-circle"></i>Comprehensive Assistance :</span>
-                                We provide comprehensive assistance, guiding you through every step from application documentation to securing admission in your preferred medical college. With our experienced team, your admission process becomes hassle-free.
-                            </li>
-                            <li>
-                                <span><i class="far fa-dot-circle"></i>Personalized Counseling :</span>
-                                Our personalized counseling ensures that your unique needs and aspirations are addressed. Our expert counselors offer tailored guidance, whether you seek clarity on eligibility criteria or assistance in choosing the right course.
-                            </li>
-                            <li>
-                                <span><i class="far fa-dot-circle"></i>Stay Updated :</span>
-                                We prioritize staying updated with the dynamic landscape of medical admissions, including evolving trends and changing exam patterns. Trust us to keep you informed about admission trends, eligibility requirements, and any shifts in entrance exam formats, providing accurate and timely information to support your journey.
-                            </li>
-                        </ul>
+            <div class="col-lg-8">
+                <div class="service-details-content">
+                    <div class="image-area">
+                        <img src="images/service-new-1.jpg" loading="lazy" alt="">
                     </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="heading">
-                    <h1>Your Success Is Our Priority</h1>
+                    <div class="header-area-serv">
+                        <h3>
+                            Simplify the Admission Process
+                        </h3>
+                        <p>
+                            At EICS, we understand that the journey to becoming a medical professional is challenging enough, so we ensure that the admission process in private medical colleges is as smooth and stress-free as possible.                         </p>
+                    </div>
+                    <div class="header-area-serv">
+                        <p>
+                            We handle the complexities, allowing students to focus on their academic preparations. Our team is well-versed with the online medical admission procedures of UG & PG courses of various colleges, streamlining the process for our students. 
+                        </p>
+                        <p>
+                            We provide step-by-step guidance on filling out application forms, submitting necessary documents, and meeting deadlines. Additionally, we offer support in understanding the eligibility criteria and entrance exam requirements, simplifying the entire process for aspiring medical students. 
+                        </p>
+                        <p>
+                            Our goal is to make the online admission process a seamless experience for every student who seeks our assistance 
+                        </p>
+                    </div>
+
+                    <!-- <div class="row">
+                        <div class="col-md-6">
+                            <div class="icon-box-item">
+                                <div class="icon-box__icon">
+                                    <img src="images/services-icon-1.jpg" loading="lazy" alt="">
+                                </div>
+                                <div class="icon-box__info">
+                                    <h4>
+                                        Title here
+                                    </h4>
+                                    <p>voluptatum deleniti atqued corrupti cepturi
+                                        sinte aeted psamtem quia voluptas sit aut odit aut
+                                        fugit. </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="icon-box-item">
+                                <div class="icon-box__icon">
+                                    <img src="images/services-icon-1.jpg" loading="lazy" alt="">
+                                </div>
+                                <div class="icon-box__info">
+                                    <h4>
+                                        Title here
+                                    </h4>
+                                    <p>voluptatum deleniti atqued corrupti cepturi
+                                        sinte aeted psamtem quia voluptas sit aut odit aut
+                                        fugit. </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>               -->
                 </div>
-                <p>
-                    At EICS, we prioritize your success above all else. Making the decision to pursue a career in medicine is monumental, and we're here to guide you through the intricate process of medical admissions in India. With our expertise and personalized support, let us empower you to achieve your dreams in the medical field.
-                </p>
             </div>
+            <aside class="col-lg-4">
+                <aside class="sidebar-single">
+                    <h3 class="sidebar-heading">Services</h3>
+                    <div class="sidebar-body">
+                        <ul class="service-list">
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.php"> Simplify the Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-2.php"> Access to Wide Network of Private Colleges</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-3.php"> Provide Personalized Guidance</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-4.php"> Facilitate Online Career Consultations</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-5.php"> Navigate Students Through the Online Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-6.php"> Bring Years of Experience to the Table</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.php"> Simplify the Admission Process</a></li>
+                          </ul>
+                    </div>
+                </aside>
+            </aside>
         </div>
     </div>
-    </section>
-<!-- about-us-area-end -->
+</section>
+<!-- services-details-area-emd -->
 
 <!-- book-your-admission-area-start -->
 <section class="admission-area">
@@ -269,12 +302,12 @@
         <h4 class="it-footer-title">our services:</h4>
         <div class="it-footer-list">
             <ul>
-                <li><a href="services-details-1.html"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                <li><a href="services-details-2.html"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                <li><a href="services-details-3.html"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                <li><a href="services-details-4.html"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                <li><a href="services-details-5.html"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                <li><a href="services-details-6.html"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
             </ul>
         </div>
         </div>
@@ -284,12 +317,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -302,42 +335,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>

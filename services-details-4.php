@@ -68,23 +68,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -114,11 +114,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.html">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.html">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.html">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -133,178 +133,89 @@
 </header>
 <!-- menu-area-end -->
 
-<!-- mbbs-area-start -->
-<section class="mbbs-area">
+<!-- services-details-area-start -->
+<section class="health-happy-services section">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <div class="heading">
-                    <h1>Medical Dreams with MBBS Programme</h1>
+            <div class="col-lg-8">
+                <div class="service-details-content">
+                    <div class="image-area">
+                        <img src="images/service-new-4.jpg" loading="lazy" alt="">
+                    </div>
+                    <div class="header-area-serv">
+                        <h3>
+                            Facilitate Online Career Consultations
+                        </h3>
+                        <p>
+                            Embracing the digital era, we offer online consultations for aspirants with our expertise team, providing the same level of detailed guidance remotely, for the convenience of our students. 
+                        </p>
+                   </div>
+                    <div class="header-area-serv">
+                        <p>
+                            Our career counseling sessions delve deep into the various medical specializations and career paths. We provide insights into the current trends in the medical field, job opportunities, and future prospects for different specializations. 
+                        </p>
+                        <p>
+                            Our online career consultations are conducted by experienced professionals who are well-versed with the nuances of the medical industry, ensuring that students receive accurate and up-to-date information. 
+                       </p>
+                       <p>
+                        By facilitating online career consultations, we aim to equip students with the knowledge and insights needed to make informed decisions about their future in the medical field.
+                       </p>
+                    </div>
+
+                    <!-- <div class="row">
+                        <div class="col-md-6">
+                            <div class="icon-box-item">
+                                <div class="icon-box__icon">
+                                    <img src="images/services-icon-1.jpg" loading="lazy" alt="">
+                                </div>
+                                <div class="icon-box__info">
+                                    <h4>
+                                        Title here
+                                    </h4>
+                                    <p>voluptatum deleniti atqued corrupti cepturi
+                                        sinte aeted psamtem quia voluptas sit aut odit aut
+                                        fugit. </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="icon-box-item">
+                                <div class="icon-box__icon">
+                                    <img src="images/services-icon-1.jpg" loading="lazy" alt="">
+                                </div>
+                                <div class="icon-box__info">
+                                    <h4>
+                                        Title here
+                                    </h4>
+                                    <p>voluptatum deleniti atqued corrupti cepturi
+                                        sinte aeted psamtem quia voluptas sit aut odit aut
+                                        fugit. </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>               -->
                 </div>
             </div>
-        </div>
-        <ul class="nav nav-tabs" id="myTab" role="tablist">
-
-            <li class="nav-item">
-              <a class="nav-link active" id="bihar-tab" data-toggle="tab" href="#bihar" role="tab" aria-controls="bihar" aria-selected="false">bihar</a>
-            </li>
-          </ul>
-          <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="bihar" role="tabpanel" aria-labelledby="bihar-tab">
-                <div class="content-tab">
-                    <div class="list-area">
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/nmch.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://nmch.ac.in/courses-offered/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://nmch.ac.in/courses-offered/" target="_blank">
-                                        NARAYAN MEDICAL COLLEGE AND HOSPITAL, SASARAM
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/mata.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://www.mgmmckishanganj.in/course/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://www.mgmmckishanganj.in/course/" target="_blank">
-                                        MATA GUJRI MEMORIAL MEDICAL COLLEGE, KISHANGANJ 
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/katihar.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://kmckatihar.org/home_admissions.php" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://kmckatihar.org/home_admissions.php" target="_blank">
-                                        KATIHAR MEDICAL COLLEGE, KATIHAR 
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/lord.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://lbkmch.org/weekly-class-schedule-for-1st-professional-mbbs-course-2019-20/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://lbkmch.org/weekly-class-schedule-for-1st-professional-mbbs-course-2019-20/" target="_blank">
-                                        LORD BUDDHA MEDICAL COLLEGE & HOSPITAL, KOSHI , SAHARSA
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/narayana.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://snmih.in/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://snmih.in/" target="_blank">
-                                        SHREE NARAYANA MEDICAL INSTITUTE & HOSPITAL,  SAHARSA
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/nsmch_building.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://nsmch.com/Courses" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://nsmch.com/Courses" target="_blank">
-                                        NETAJI SUBHASH, BIHTA
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/madhubani.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://mmcworld.org/mbbs/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://mmcworld.org/mbbs/" target="_blank">
-                                        MADHUBANI MEDICAL COLLEGE & HOSPITAL, MADHUBANI
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/rdjm.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://rdjmmch.in/mbbs-course/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://rdjmmch.in/mbbs-course/" target="_blank">
-                                        RDJM MEMORIAL MEDICAL COLLEGE & HOSPITAL , MUZAFFARPUR
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
+            <aside class="col-lg-4">
+                <aside class="sidebar-single">
+                    <h3 class="sidebar-heading">Services</h3>
+                    <div class="sidebar-body">
+                        <ul class="service-list">
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.php"> Simplify the Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-2.php"> Access to Wide Network of Private Colleges</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-3.php"> Provide Personalized Guidance</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-4.php"> Facilitate Online Career Consultations</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-5.php"> Navigate Students Through the Online Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-6.php"> Bring Years of Experience to the Table</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.php"> Simplify the Admission Process</a></li>
+                        </ul>
                     </div>
-                 </div>
-            </div>
-          </div>
-    </di>
+                </aside>
+            </aside>
+        </div>
+    </div>
 </section>
-<!-- mbbs-area-end -->
+<!-- services-details-area-emd -->
 
 <!-- book-your-admission-area-start -->
 <section class="admission-area">
@@ -392,12 +303,12 @@
         <h4 class="it-footer-title">our services:</h4>
         <div class="it-footer-list">
             <ul>
-                <li><a href="services-details-1.html"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                <li><a href="services-details-2.html"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                <li><a href="services-details-3.html"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                <li><a href="services-details-4.html"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                <li><a href="services-details-5.html"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                <li><a href="services-details-6.html"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
             </ul>
         </div>
         </div>
@@ -407,12 +318,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -425,42 +336,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>

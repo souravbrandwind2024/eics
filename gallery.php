@@ -33,6 +33,8 @@
     <link href="css/plugins/owl.theme.default.min.css" rel="stylesheet">
     <!--aos-css-->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!--magnific-popup-css-->
+    <link href="css/plugins/magnific-popup.css" rel="stylesheet">
     <!-- custom style css -->
     <link href="css/style.css?v=1.0" rel="stylesheet">
     <!-- responsive css -->
@@ -68,23 +70,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -114,11 +116,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.html">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.html">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.html">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -133,89 +135,117 @@
 </header>
 <!-- menu-area-end -->
 
-<!-- services-details-area-start -->
-<section class="health-happy-services section">
+<!-- gallery-area-start -->
+<section class="gallery-area">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8">
-                <div class="service-details-content">
-                    <div class="image-area">
-                        <img src="images/service-new-4.jpg" loading="lazy" alt="">
-                    </div>
-                    <div class="header-area-serv">
-                        <h3>
-                            Facilitate Online Career Consultations
-                        </h3>
-                        <p>
-                            Embracing the digital era, we offer online consultations for aspirants with our expertise team, providing the same level of detailed guidance remotely, for the convenience of our students. 
-                        </p>
-                   </div>
-                    <div class="header-area-serv">
-                        <p>
-                            Our career counseling sessions delve deep into the various medical specializations and career paths. We provide insights into the current trends in the medical field, job opportunities, and future prospects for different specializations. 
-                        </p>
-                        <p>
-                            Our online career consultations are conducted by experienced professionals who are well-versed with the nuances of the medical industry, ensuring that students receive accurate and up-to-date information. 
-                       </p>
-                       <p>
-                        By facilitating online career consultations, we aim to equip students with the knowledge and insights needed to make informed decisions about their future in the medical field.
-                       </p>
-                    </div>
-
-                    <!-- <div class="row">
-                        <div class="col-md-6">
-                            <div class="icon-box-item">
-                                <div class="icon-box__icon">
-                                    <img src="images/services-icon-1.jpg" loading="lazy" alt="">
-                                </div>
-                                <div class="icon-box__info">
-                                    <h4>
-                                        Title here
-                                    </h4>
-                                    <p>voluptatum deleniti atqued corrupti cepturi
-                                        sinte aeted psamtem quia voluptas sit aut odit aut
-                                        fugit. </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="icon-box-item">
-                                <div class="icon-box__icon">
-                                    <img src="images/services-icon-1.jpg" loading="lazy" alt="">
-                                </div>
-                                <div class="icon-box__info">
-                                    <h4>
-                                        Title here
-                                    </h4>
-                                    <p>voluptatum deleniti atqued corrupti cepturi
-                                        sinte aeted psamtem quia voluptas sit aut odit aut
-                                        fugit. </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>               -->
-                </div>
-            </div>
-            <aside class="col-lg-4">
-                <aside class="sidebar-single">
-                    <h3 class="sidebar-heading">Services</h3>
-                    <div class="sidebar-body">
-                        <ul class="service-list">
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.html"> Simplify the Admission Process</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-2.html"> Access to Wide Network of Private Colleges</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-3.html"> Provide Personalized Guidance</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-4.html"> Facilitate Online Career Consultations</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-5.html"> Navigate Students Through the Online Admission Process</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-6.html"> Bring Years of Experience to the Table</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.html"> Simplify the Admission Process</a></li>
-                        </ul>
-                    </div>
-                </aside>
-            </aside>
-        </div>
+    <div class="gallerysection">
+    <div class="row">
+    <div class="col-md-3">
+    <a href="images/recent-post-1.jpg">
+    <div class="galleryimg">
+    <img src="images/recent-post-1.jpg" loading="lazy" alt=""/>
+    <!-- <i class="fas fa-link"></i> -->
+    <i class="fas fa-search-plus"></i>
     </div>
-</section>
-<!-- services-details-area-emd -->
+    </a>
+    </div>
+    <div class="col-md-3">
+    <a href="images/recent-post-2.jpg">
+    <div class="galleryimg">
+        <img src="images/recent-post-2.jpg" loading="lazy" alt=""/>
+        <i class="fas fa-search-plus"></i>
+    </div>
+    </a>
+    </div>
+    <div class="col-md-3">
+    <a href="images/recent-post-3.jpg">
+    <div class="galleryimg">
+        <img src="images/recent-post-3.jpg" loading="lazy" alt=""/>
+        <i class="fas fa-search-plus"></i>
+    </div>
+    </a>
+    </div>
+    <div class="col-md-3">
+    <a href="images/recent-post-4.jpg">
+    <div class="galleryimg">
+        <img src="images/recent-post-4.jpg" loading="lazy" alt=""/>
+        <i class="fas fa-search-plus"></i>
+    </div>
+    </a>
+    </div>
+
+    <div class="col-md-3">
+    <a href="images/recent-post-5.jpg">
+    <div class="galleryimg">
+        <img src="images/recent-post-5.jpg" loading="lazy" alt=""/>
+        <i class="fas fa-search-plus"></i>
+    </div>
+    </a>
+    </div>
+    <div class="col-md-3">
+    <a href="images/recent-post-6.jpg">
+    <div class="galleryimg">
+        <img src="images/recent-post-6.jpg" loading="lazy" alt=""/>
+        <i class="fas fa-search-plus"></i>
+    </div>
+    </a>
+    </div>
+    <div class="col-md-3">
+    <a href="images/recent-post-7.jpg">
+    <div class="galleryimg">
+        <img src="images/recent-post-7.jpg" loading="lazy" alt=""/>
+        <i class="fas fa-search-plus"></i>
+    </div>
+    </a>
+    </div>
+    <div class="col-md-3">
+    <a href="images/recent-post-8.jpg">
+    <div class="galleryimg">
+        <img src="images/recent-post-8.jpg" loading="lazy" alt=""/>
+        <i class="fas fa-search-plus"></i>
+    </div>
+    </a>
+    </div>
+
+    <div class="col-md-3">
+        <a href="images/gallery-8.jpg">
+        <div class="galleryimg">
+            <img src="images/gallery-8.jpg" loading="lazy" alt=""/>
+            <i class="fas fa-search-plus"></i>
+        </div>
+        </a>
+        </div>
+        <div class="col-md-3">
+        <a href="images/gallery-9.jpg">
+        <div class="galleryimg">
+            <img src="images/gallery-9.jpg" loading="lazy" alt=""/>
+            <i class="fas fa-search-plus"></i>
+        </div>
+        </a>
+        </div>
+        <div class="col-md-3">
+        <a href="images/gallery-10.jpg">
+        <div class="galleryimg">
+            <img src="images/gallery-10.jpg" loading="lazy" alt=""/>
+            <i class="fas fa-search-plus"></i>
+        </div>
+        </a>
+        </div>
+        <div class="col-md-3">
+        <a href="images/gallery-11.jpg">
+        <div class="galleryimg">
+            <img src="images/gallery-11.jpg" loading="lazy" alt=""/>
+            <i class="fas fa-search-plus"></i>
+        </div>
+        </a>
+        </div>
+
+    </div>
+    </div>
+    </div>
+    </section>
+
+<!-- gallery-area-end -->
 
 <!-- book-your-admission-area-start -->
 <section class="admission-area">
@@ -303,12 +333,12 @@
         <h4 class="it-footer-title">our services:</h4>
         <div class="it-footer-list">
             <ul>
-                <li><a href="services-details-1.html"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                <li><a href="services-details-2.html"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                <li><a href="services-details-3.html"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                <li><a href="services-details-4.html"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                <li><a href="services-details-5.html"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                <li><a href="services-details-6.html"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
             </ul>
         </div>
         </div>
@@ -318,12 +348,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -336,42 +366,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>
@@ -413,6 +443,8 @@
 <script src="js/plugins/slick.min.js"></script>
 <!--aos-js-->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<!--magnific-popup-js-->
+<script src="js/plugins/jquery.magnific-popup.min.js"></script>
 <!-- main js -->
 <script src="js/main.js"></script>
 

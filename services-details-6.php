@@ -68,23 +68,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -114,11 +114,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.html">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.html">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.html">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -140,24 +140,23 @@
             <div class="col-lg-8">
                 <div class="service-details-content">
                     <div class="image-area">
-                        <img src="images/service-new-3.jpg" loading="lazy" alt="">
+                        <img src="images/banner-2.jpg" loading="lazy" alt="">
                     </div>
                     <div class="header-area-serv">
                         <h3>
-                            Provide Personalized Guidance
+                            Bring Years of Experience to the Table
                         </h3>
                         <p>
-                            Recognizing that each student’s path is unique, we offer tailored advice and support. Our personalized approach ensures that every student’s individual needs and aspirations are met. 
+                            Our team’s extensive experience in the medical education sector, especially in UG & PG courses like MBBS, BDS, MS and MD, means we’re well-equipped to provide knowledgeable guidance that students can trust. 
                         </p>
                    </div>
                     <div class="header-area-serv">
                         <p>
-                            We conduct one-on-one online counseling sessions with medical aspirants to understand the student's academic background, interests, and career goals. Based on this information, we provide customized guidance on college selection, course selection, and career pathways. 
-</p>
+                            We have a deep understanding of the evolving trends and requirements in the medical field, enabling us to offer relevant and up-to-date advice to our students. Our team has helped numerous students successfully navigate the complex process of medical college admissions. 
+                        </p>
                         <p>
-                            Our team also offers mentorship and support throughout the student's academic journey, helping them navigate challenges and make informed decisions. 
-                     </p>
-                      
+                             By bringing years of experience to the table, we aim to empower students to make informed decisions that will shape their future in the medical field.
+                        </p>    
                     </div>
 
                     <!-- <div class="row">
@@ -199,13 +198,13 @@
                     <h3 class="sidebar-heading">Services</h3>
                     <div class="sidebar-body">
                         <ul class="service-list">
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.html"> Simplify the Admission Process</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-2.html"> Access to Wide Network of Private Colleges</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-3.html"> Provide Personalized Guidance</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-4.html"> Facilitate Online Career Consultations</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-5.html"> Navigate Students Through the Online Admission Process</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-6.html"> Bring Years of Experience to the Table</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.html"> Simplify the Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.php"> Simplify the Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-2.php"> Access to Wide Network of Private Colleges</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-3.php"> Provide Personalized Guidance</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-4.php"> Facilitate Online Career Consultations</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-5.php"> Navigate Students Through the Online Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-6.php"> Bring Years of Experience to the Table</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.php"> Simplify the Admission Process</a></li>
                         </ul>
                     </div>
                 </aside>
@@ -301,12 +300,12 @@
         <h4 class="it-footer-title">our services:</h4>
         <div class="it-footer-list">
             <ul>
-                <li><a href="services-details-1.html"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                <li><a href="services-details-2.html"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                <li><a href="services-details-3.html"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                <li><a href="services-details-4.html"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                <li><a href="services-details-5.html"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                <li><a href="services-details-6.html"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
             </ul>
         </div>
         </div>
@@ -316,12 +315,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -334,42 +333,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>

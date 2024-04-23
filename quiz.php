@@ -72,23 +72,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -118,11 +118,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                               <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="md-ms.html">West Bengal</a></li>
-                                  <li><a class="dropdown-item" href="md-ms.html">Bihar</a></li>
-                                  <li><a class="dropdown-item" href="md-ms.html">Uttar Pradesh</a></li>
-                                  <li><a class="dropdown-item" href="md-ms.html">Karnataka</a></li>
-                                  <li><a class="dropdown-item" href="md-ms.html">Deemed University</a></li>
+                                <li><a class="dropdown-item" href="md-ms.php">West Bengal</a></li>
+                                  <li><a class="dropdown-item" href="md-ms.php">Bihar</a></li>
+                                  <li><a class="dropdown-item" href="md-ms.php">Uttar Pradesh</a></li>
+                                  <li><a class="dropdown-item" href="md-ms.php">Karnataka</a></li>
+                                  <li><a class="dropdown-item" href="md-ms.php">Deemed University</a></li>
                               </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -670,7 +670,7 @@
 
                 <div class="submit-btn-area" data-toggle="modal" data-target="#exampleModalCenter">
                     <button v-if="result === null" @click="generateResult" type="button" class="cstm-btn">Know Your Score</button>
-                    <a v-else href="/quiz.html" class="cstm-btn">Start New Quiz</a>
+                    <a v-else href="/quiz.php" class="cstm-btn">Start New Quiz</a>
                 </div>
             </div>
         </div>
@@ -827,12 +827,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -845,42 +845,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>

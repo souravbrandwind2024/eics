@@ -68,23 +68,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -114,11 +114,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.html">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.html">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.html">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -139,7 +139,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="heading">
-                    <h1>Medical Dreams with MD/MS Programme</h1>
+                    <h1>Medical Dreams with MBBS Programme</h1>
                 </div>
             </div>
         </div>
@@ -157,14 +157,14 @@
                                 <img class="wrap" src="images/gitam.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.gitam.edu/programme-finder" target="_blank">
+                                    <a href="https://www.gitam.edu/admissions/undergraduate-programmes" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.gitam.edu/programme-finder" target="_blank">
+                                    <a href="https://www.gitam.edu/admissions/undergraduate-programmes" target="_blank">
                                         GITAM VISAKHAPATNAM
                                     </a>    
                                 </h3>
@@ -193,14 +193,14 @@
                                 <img class="wrap" src="images/kims.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://kims.kiit.ac.in/courses/md/" target="_blank">
+                                    <a href="https://kims.kiit.ac.in/courses/mbbs/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://kims.kiit.ac.in/courses/md/" target="_blank">
+                                    <a href="https://kims.kiit.ac.in/courses/mbbs/" target="_blank">
                                         KALINGA KIMS, BHUBANESWAR 
                                     </a>    
                                 </h3>
@@ -211,14 +211,14 @@
                                 <img class="wrap" src="images/hamdard.jpeg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.himsr.co.in/md-ms-admissions-2023-24/" target="_blank">
+                                    <a href="https://www.himsr.co.in/mbbs-admission-2023-24/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.himsr.co.in/md-ms-admissions-2023-24/" target="_blank">
+                                    <a href="https://www.himsr.co.in/mbbs-admission-2023-24/" target="_blank">
                                         HAMDARD HIMSR, NEW DELHI 
                                     </a>    
                                 </h3>
@@ -229,14 +229,14 @@
                                 <img class="wrap" src="images/sbks.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://sumandeepvidyapeethdu.edu.in/medical/programs-courses-new/#1613121866549-b201fee9-54c1" target="_blank">
+                                    <a href="https://sumandeepvidyapeethdu.edu.in/medical/programs-courses-new/#1613121866534-356baa8f-bc19" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://sumandeepvidyapeethdu.edu.in/medical/programs-courses-new/#1613121866549-b201fee9-54c1" target="_blank">
+                                    <a href="https://sumandeepvidyapeethdu.edu.in/medical/programs-courses-new/#1613121866534-356baa8f-bc19" target="_blank">
                                         SBKS VIDYAPEETH 
                                     </a>    
                                 </h3>
@@ -247,14 +247,14 @@
                                 <img class="wrap" src="images/mm-university.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://mmimsr.mmumullana.org/courseDetails.php?ID=P.G.%20(MD/MS)" target="_blank">
+                                    <a href="https://mmimsr.mmumullana.org/courses.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://mmimsr.mmumullana.org/courseDetails.php?ID=P.G.%20(MD/MS)" target="_blank">
+                                    <a href="https://mmimsr.mmumullana.org/courses.php" target="_blank">
                                         MM INST. MULLANA
                                     </a>    
                                 </h3>
@@ -265,14 +265,14 @@
                                 <img class="wrap" src="images/manipal.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.manipal.edu/mu/academics/programs-list.html#Postgraduate" target="_blank">
+                                    <a href="https://www.manipal.edu/mu/academics/programs-list.html#Undergraduate" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.manipal.edu/mu/academics/programs-list.html#Postgraduate" target="_blank">
+                                    <a href="https://www.manipal.edu/mu/academics/programs-list.html#Undergraduate" target="_blank">
                                         MANIPAL TATA, JAMSHEDPUR
                                     </a>    
                                 </h3>
@@ -283,14 +283,14 @@
                                 <img class="wrap" src="images/blde.png" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://bldedu.ac.in/pg/" target="_blank">
+                                    <a href="https://bldedu.ac.in/ug/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://bldedu.ac.in/pg/" target="_blank">
+                                    <a href="https://bldedu.ac.in/ug/" target="_blank">
                                         B.L.D.E UNIVERSITY, BIJAPUR
                                     </a>    
                                 </h3>
@@ -301,14 +301,14 @@
                                 <img class="wrap" src="images/nehru.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://jnmc.edu/post-graduate/md/" target="_blank">
+                                    <a href="https://jnmc.edu/mbbs/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://jnmc.edu/post-graduate/md/" target="_blank">
+                                    <a href="https://jnmc.edu/mbbs/" target="_blank">
                                         JAWAHAR LAL NEHRU MED. COL. BELAGAVI
                                     </a>    
                                 </h3>
@@ -319,14 +319,14 @@
                                 <img class="wrap" src="images/jss.jpeg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://jssuni.edu.in/JSSWeb/WebShowFromDB.aspx?MID=13001&CID=0&PID=10004" target="_blank">
+                                    <a href="https://jssuni.edu.in/JSSWeb/WebShowFromDB.aspx?MID=13000&CID=0&PID=10004" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://jssuni.edu.in/JSSWeb/WebShowFromDB.aspx?MID=13001&CID=0&PID=10004" target="_blank">
+                                    <a href="https://jssuni.edu.in/JSSWeb/WebShowFromDB.aspx?MID=13000&CID=0&PID=10004" target="_blank">
                                         JSS MEDICAL COLLEGE, JAGADGURU
                                     </a>    
                                 </h3>
@@ -337,14 +337,14 @@
                                 <img class="wrap" src="images/ks.jpeg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://kshema.nitte.edu.in/#Postgraduate" target="_blank">
+                                    <a href="https://kshema.nitte.edu.in/admission-mbbs.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://kshema.nitte.edu.in/#Postgraduate" target="_blank">
+                                    <a href="https://kshema.nitte.edu.in/admission-mbbs.php" target="_blank">
                                         K.S HEGDE, MANGALURU
                                     </a>    
                                 </h3>
@@ -373,52 +373,50 @@
                                 <img class="wrap" src="images/raja.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://college.rrmch.org/category/courses-offered/md-ms/" target="_blank">
+                                    <a href="http://www.rrmch.org/medical-admission-mbbs-ms-md-phd/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://college.rrmch.org/category/courses-offered/md-ms/" target="_blank">
+                                    <a href="http://www.rrmch.org/medical-admission-mbbs-ms-md-phd/" target="_blank">
                                         RAJA RAJESWARI BENGALURU 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
-
                         <div class="list-info">
                             <div class="container-all">
                                 <img class="wrap" src="images/sdu.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://sdumc.ac.in/faculty-of-medicine.html" target="_blank">
+                                    <a href="https://sduaher.ac.in/ug.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://sdumc.ac.in/faculty-of-medicine.html" target="_blank">
+                                    <a href="https://sduaher.ac.in/ug.php" target="_blank">
                                         SDU MEDICAL COLLEGE, KOLAR 
                                     </a>    
                                 </h3>
                             </div>
-                    </div>
-                    
+                        </div>
                         <div class="list-info">
                             <div class="container-all">
                                 <img class="wrap" src="images/siddhartha.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://ssimrc.in/Academics.html" target="_blank">
+                                    <a href="https://ssimrc.in/medical-ug-program-mbbs.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://ssimrc.in/Academics.html" target="_blank">
+                                    <a href="https://ssimrc.in/medical-ug-program-mbbs.php" target="_blank">
                                         SRI SIDDHARTHA ACADEMY T BEGUR 
                                     </a>    
                                 </h3>
@@ -429,14 +427,14 @@
                                 <img class="wrap" src="images/tumkur.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.ssmctumkur.org/pg-courses.html" target="_blank">
+                                    <a href="https://www.ssmctumkur.org/ug-courses.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.ssmctumkur.org/pg-courses.html" target="_blank">
+                                    <a href="https://www.ssmctumkur.org/ug-courses.php" target="_blank">
                                         SRI SIDDHARTHA , TUMKUR 
                                     </a>    
                                 </h3>
@@ -447,14 +445,14 @@
                                 <img class="wrap" src="images/mangalore.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.yenepoya.edu.in/admissions.php?p=PG" target="_blank">
+                                    <a href="https://www.yenepoya.edu.in/admissions.php?p=UG" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.yenepoya.edu.in/admissions.php?p=PG" target="_blank">
+                                    <a href="https://www.yenepoya.edu.in/admissions.php?p=UG" target="_blank">
                                         YENEPOYA, MANGALORE 
                                     </a>    
                                 </h3>
@@ -465,14 +463,14 @@
                                 <img class="wrap" src="images/yenepoya-mm.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.ymc.yenepoya.edu.in/admissions.php?p=PG" target="_blank">
+                                    <a href="https://www.ymc.yenepoya.edu.in/admissions.php?p=UG" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.ymc.yenepoya.edu.in/admissions.php?p=PG" target="_blank">
+                                    <a href="https://www.ymc.yenepoya.edu.in/admissions.php?p=UG" target="_blank">
                                         YENEPOYA, MANGALORE MM 
                                     </a>    
                                 </h3>
@@ -483,14 +481,14 @@
                                 <img class="wrap" src="images/jgmm.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://klejgmmmc.edu.in/courses.html" target="_blank">
+                                    <a href="https://klejgmmmc.edu.in/courses.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://klejgmmmc.edu.in/courses.html" target="_blank">
+                                    <a href="https://klejgmmmc.edu.in/courses.php" target="_blank">
                                         JGMM MEDICAL COLLEHE HUBBALLI 
                                     </a>    
                                 </h3>
@@ -501,14 +499,14 @@
                                 <img class="wrap" src="images/Amrita_Hospital_Kochi.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.amrita.edu/academics/?dgr=postgraduate" target="_blank">
+                                    <a href="https://www.amrita.edu/academics/?dgr=undergraduate" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.amrita.edu/academics/?dgr=postgraduate" target="_blank">
+                                    <a href="https://www.amrita.edu/academics/?dgr=undergraduate" target="_blank">
                                         AMRITA INST. OF MED. SC., KOCHI 
                                     </a>    
                                 </h3>
@@ -519,14 +517,14 @@
                                 <img class="wrap" src="images/bharti.jpeg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.bvuniversity.edu.in/pg-programmes#locationwise" target="_blank">
+                                    <a href="https://www.bvuniversity.edu.in/ug-programmes#locationwise" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.bvuniversity.edu.in/pg-programmes#locationwise" target="_blank">
+                                    <a href="https://www.bvuniversity.edu.in/ug-programmes#locationwise" target="_blank">
                                         BHARTI VIDYAPITH, PUNE
                                     </a>    
                                 </h3>
@@ -573,14 +571,14 @@
                                 <img class="wrap" src="images/patil-mumbai.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://dypatil.edu/programs/post-graduate" target="_blank">
+                                    <a href="https://dypatil.edu/programs/under-graduate/medicine/school-of-medicine/mbbs" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://dypatil.edu/programs/post-graduate" target="_blank">
+                                    <a href="https://dypatil.edu/programs/under-graduate/medicine/school-of-medicine/mbbs" target="_blank">
                                         DR. DY PATIL, NAVI MUMBAI
                                     </a>    
                                 </h3>
@@ -591,14 +589,14 @@
                                 <img class="wrap" src="images/kolhapur.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.dypatilmedicalkop.org/index.php/academic/postgraduate-education/" target="_blank">
+                                    <a href="https://dypatilunikop.org/mbbs-admissions-2023-24/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.dypatilmedicalkop.org/index.php/academic/postgraduate-education/" target="_blank">
+                                    <a href="https://dypatilunikop.org/mbbs-admissions-2023-24/" target="_blank">
                                         DR. DY PATIL KOLHAPUR 
                                     </a>    
                                 </h3>
@@ -645,14 +643,14 @@
                                 <img class="wrap" src="images/mgm-medical.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://mgmmcha.org/courses.php#pg" target="_blank">
+                                    <a href="https://mgmmcha.org/courses.php#mbbs" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://mgmmcha.org/courses.php#pg" target="_blank">
+                                    <a href="https://mgmmcha.org/courses.php#mbbs" target="_blank">
                                         MGM MEDICAL COLLEGE, AURANGABAD 
                                     </a>    
                                 </h3>
@@ -663,14 +661,14 @@
                                 <img class="wrap" src="images/mgm-mumbai.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://mgmmcnm.edu.in/admision.html" target="_blank">
+                                    <a href="https://mgmmcnm.edu.in/admision.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://mgmmcnm.edu.in/admision.html" target="_blank">
+                                    <a href="https://mgmmcnm.edu.in/admision.php" target="_blank">
                                         MGM MEDICAL COLLEGE, NAVI MUMBAI 
                                     </a>    
                                 </h3>
@@ -681,14 +679,14 @@
                                 <img class="wrap" src="images/rural.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.pravara.com/admission-courses.html" target="_blank">
+                                    <a href="https://www.pravara.com/admission-courses.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.pravara.com/admission-courses.html" target="_blank">
+                                    <a href="https://www.pravara.com/admission-courses.php" target="_blank">
                                         RURAL MED. COL. PIMS, LONI
                                     </a>    
                                 </h3>
@@ -699,14 +697,14 @@
                                 <img class="wrap" src="images/symbiosis.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://smcw.edu.in/admissions" target="_blank">
+                                    <a href="https://www.sihs.edu.in/programme" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://smcw.edu.in/admissions" target="_blank">
+                                    <a href="https://www.sihs.edu.in/programme" target="_blank">
                                         SYMBIOSIS M.C. FOR WOMEN, PUNE 
                                     </a>    
                                 </h3>
@@ -717,14 +715,14 @@
                                 <img class="wrap" src="images/Datta_Meghe_DU-Nagpur.png" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://dmmcnagpur.com/departments" target="_blank">
+                                    <a href="https://dmmcnagpur.com/course" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://dmmcnagpur.com/departments" target="_blank">
+                                    <a href="https://dmmcnagpur.com/course" target="_blank">
                                         DATTA MEGHE IMS., NAGPUR 
                                     </a>    
                                 </h3>
@@ -771,14 +769,14 @@
                                 <img class="wrap" src="images/Vinayaka-Missions.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.vmmckkl.edu.in/courses/md-general-medicine" target="_blank">
+                                    <a href="https://www.vmmckkl.edu.in/courses/mbbs" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.vmmckkl.edu.in/courses/md-general-medicine" target="_blank">
+                                    <a href="https://www.vmmckkl.edu.in/courses/mbbs" target="_blank">
                                         VINAYAKA MISSIONS, KARAIKAL
                                     </a>    
                                 </h3>
@@ -807,14 +805,14 @@
                                 <img class="wrap" src="images/meenakshi.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://mmchri.ac.in/programs/" target="_blank">
+                                    <a href="https://mmchri.ac.in/admissions/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://mmchri.ac.in/programs/" target="_blank">
+                                    <a href="https://mmchri.ac.in/" target="_blank">
                                         MEENAKSHI MED. COL. , CHENNAI 
                                     </a>    
                                 </h3>
@@ -825,14 +823,14 @@
                                 <img class="wrap" src="images/saveetha.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.smc.saveetha.com/" target="_blank">
+                                    <a href="https://www.smc.saveetha.com/admissions" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.smc.saveetha.com/" target="_blank">
+                                    <a href="https://www.smc.saveetha.com/admissions" target="_blank">
                                         SAVEETHA MEDICAL COLLEGE, CHENNAI
                                     </a>    
                                 </h3>
@@ -843,14 +841,14 @@
                                 <img class="wrap" src="images/sri-sathya.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://sssmcri.ac.in/mdms/" target="_blank">
+                                    <a href="https://sssmcri.ac.in/mbbs/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://sssmcri.ac.in/mdms/" target="_blank">
+                                    <a href="https://sssmcri.ac.in/mbbs/" target="_blank">
                                         SHRI SATHYA SAI , KANCHEEPURAM 
                                     </a>    
                                 </h3>
@@ -861,14 +859,14 @@
                                 <img class="wrap" src="images/Sree-Balaji-Medical.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://sbmch.ac.in/admission/#PG-Programmes" target="_blank">
+                                    <a href="https://sbmch.ac.in/admission/#UG-Programmes" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://sbmch.ac.in/admission/#PG-Programmes" target="_blank">
+                                    <a href="https://sbmch.ac.in/admission/#UG-Programmes" target="_blank">
                                         SREE BALAJI , CHENNAI 
                                     </a>    
                                 </h3>
@@ -879,14 +877,14 @@
                                 <img class="wrap" src="images/Chettinad.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://admission.care.edu.in/" target="_blank">
+                                    <a href="https://care.edu.in/school/chettinad-school-of-pharmaceutical-sciences/admission/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://admission.care.edu.in/" target="_blank">
+                                    <a href="https://care.edu.in/school/chettinad-school-of-pharmaceutical-sciences/admission/" target="_blank">
                                         CHETTINAD, KANCHEEPURAM 
                                     </a>    
                                 </h3>
@@ -915,34 +913,32 @@
                                 <img class="wrap" src="images/srm.png" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://applications.srmist.edu.in/hspg" target="_blank">
+                                    <a href="https://applications.srmist.edu.in/srmhs#Programs" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://applications.srmist.edu.in/hspg" target="_blank">
+                                    <a href="https://applications.srmist.edu.in/srmhs#Programs" target="_blank">
                                         SRM MED. COL., CHENNAI 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
-
-
                         <div class="list-info">
                             <div class="container-all">
                                 <img class="wrap" src="images/vinayaka.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://vmrfdu.edu.in/cuetpg.php" target="_blank">
+                                    <a href="https://vmrfdu.edu.in/cuetug.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://vmrfdu.edu.in/cuetpg.php" target="_blank">
+                                    <a href="https://vmrfdu.edu.in/cuetug.php" target="_blank">
                                         VINAYAKA MISSION, SALEM 
                                     </a>    
                                 </h3>
@@ -953,14 +949,14 @@
                                 <img class="wrap" src="images/vels.png" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://velsmedicalcollege.com/programs-offered.php" target="_blank">
+                                    <a href="https://velsmedicalcollege.com/admission-procedure.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://velsmedicalcollege.com/programs-offered.php" target="_blank">
+                                    <a href="https://velsmedicalcollege.com/admission-procedure.php" target="_blank">
                                         VELS MEDICAL COLLEGE & HOSPITAL 
                                     </a>    
                                 </h3>
@@ -971,14 +967,14 @@
                                 <img class="wrap" src="images/bhaarath-medical.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://bmch.ac.in/courses.php" target="_blank">
+                                    <a href="https://bmch.ac.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://bmch.ac.in/courses.php" target="_blank">
+                                    <a href="https://bmch.ac.in/" target="_blank">
                                         BHAARAT MC CHENNAI 
                                     </a>    
                                 </h3>
@@ -989,14 +985,14 @@
                                 <img class="wrap" src="images/Sri-Lalithambigai.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://slmch.ac.in/slmch-admission/" target="_blank">
+                                    <a href="https://slmch.ac.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://slmch.ac.in/slmch-admission/" target="_blank">
+                                    <a href="https://slmch.ac.in/" target="_blank">
                                         SRI LALITHAMBIGAI MED COLL 
                                     </a>    
                                 </h3>
@@ -1007,14 +1003,14 @@
                                 <img class="wrap" src="images/santosh.jpeg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.santosh.ac.in/" target="_blank">
+                                    <a href="https://www.santosh.ac.in/medical-course-details/mbbs" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.santosh.ac.in/" target="_blank">
+                                    <a href="https://www.santosh.ac.in/medical-course-details/mbbs" target="_blank">
                                         SANTOSH MED., GHAZIABAD
                                     </a>    
                                 </h3>
@@ -1022,10 +1018,13 @@
                         </div>
 
                         <div class="list-info last" style="background-color: transparent;">
+                      
                         </div>
                         <div class="list-info last" style="background-color: transparent;">
+                      
                         </div>
                         <div class="list-info last" style="background-color: transparent;">
+                      
                         </div>
                         </div>
                         </div>
@@ -1121,12 +1120,12 @@
         <h4 class="it-footer-title">our services:</h4>
         <div class="it-footer-list">
             <ul>
-                <li><a href="services-details-1.html"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                <li><a href="services-details-2.html"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                <li><a href="services-details-3.html"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                <li><a href="services-details-4.html"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                <li><a href="services-details-5.html"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                <li><a href="services-details-6.html"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
             </ul>
         </div>
         </div>
@@ -1136,12 +1135,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -1154,42 +1153,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>

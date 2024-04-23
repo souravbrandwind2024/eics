@@ -68,23 +68,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -114,11 +114,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.html">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.html">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.html">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -139,509 +139,365 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="heading">
-                    <h1>Medical Dreams with MD/MS Programme</h1>
+                    <h1>Medical Dreams with MBBS Programme</h1>
                 </div>
             </div>
         </div>
         <ul class="nav nav-tabs" id="myTab" role="tablist">
               <li class="nav-item">
-                <a class="nav-link active" id="karnatak-tab" data-toggle="tab" href="#karnatak" role="tab" aria-controls="karnatak" aria-selected="false">Karnataka</a>
+                <a class="nav-link active" id="kerala-tab" data-toggle="tab" href="#kerala" role="tab" aria-controls="kerala" aria-selected="false">kerala</a>
               </li>
           </ul>
           <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="karnatak" role="tabpanel" aria-labelledby="karnatak-tab">
+            <div class="tab-pane fade show active" id="kerala" role="tabpanel" aria-labelledby="kerala-tab">
                 <div class="content-tab">
                     <div class="list-area">
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/ambedkar.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/jubile.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://bramc.edu.in/mbbs-courses/" target="_blank">
+                                    <a href="https://www.jmmcri.org/medicaleducation.php" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://bramc.edu.in/mbbs-courses/" target="_blank">
-                                        DR B.R. AMBEDKAR MEDICAL COLLEGE, BANGALORE
+                                    <a href="https://www.jmmcri.org/medicaleducation.php" target="_blank">
+                                        JUBILEE MISSION MEDICAL COLLEGE & RESEARCH INSTITUTE, THRISSUR 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/kempegowda.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/amla.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.kimsbangalore.edu.in/md-ms-diploma/" target="_blank">
+                                    <a href="https://www.amalaims.org/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.kimsbangalore.edu.in/md-ms-diploma/" target="_blank">
-                                        KEMPEGOWDA INSTITUTE OF MEDICAL SCIENCES, BANGALORE 
+                                    <a href="https://www.amalaims.org/" target="_blank">
+                                        AMALA INSTITUTE OF MEDICAL SCIENCES, THRISSUR
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/ramaiah.png" loading="lazy" alt="" />
+                                <img class="wrap" src="images/malankara.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.msruas.ac.in/study-at-ruas/postgraduate-programmes" target="_blank">
+                                    <a href="https://www.moscmm.org/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.msruas.ac.in/study-at-ruas/postgraduate-programmes" target="_blank">
-                                        M.S.RAMAIAH MEDICAL COLLEGE, BANGALORE
+                                    <a href="https://www.moscmm.org/" target="_blank">
+                                        MALANKARA ORTHODOX SYRIAN CHURCH MEDICAL COLLEGE, KOLENCHERY 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/kahja.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/pushpagiri.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.kbn.university/faculty-of-medicine" target="_blank">
+                                    <a href="https://pimsrc.edu.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.kbn.university/faculty-of-medicine" target="_blank">
-                                        KHAJA BANDE NAVAZ INSTITUTE OF MEDICAL SCIENCES,GULBARGA
+                                    <a href="https://pimsrc.edu.in/" target="_blank">
+                                        PUSHPAGIRI INSTITUTE OF MEDICAL SCIENCES AND RESEARCH CENTRE, TIRUVALLA 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/mvj.png" loading="lazy" alt="" />
+                                <img class="wrap" src="images/church.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://mvjmc.edu.in/" target="_blank">
+                                    <a href="https://www.bcmch.org/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://mvjmc.edu.in/" target="_blank">
-                                        M.V.J.MEDICAL COLLEGE AND RESEARCH HOSPITAL, CHANNASANDR
+                                    <a href="https://www.bcmch.org/" target="_blank">
+                                        BELIEVERS CHURCH MEDICAL COLLEGE HOSPITAL, THIRUVALLA, KERALA
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/vydehi.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/mes.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://vims.ac.in/education/admissions/#tab-64202" target="_blank">
+                                    <a href="http://mesams.com/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://vims.ac.in/education/admissions/#tab-64202" target="_blank">
-                                        VYDEHI INSTITUTE OF MEDICAL SCIENCE AND RESEARCH CENTRE, BANGALORE
+                                    <a href="http://mesams.com/" target="_blank">
+                                        M E S MEDICAL COLLEGE , PERINTALMANNA MALAPPURAM DISTT.KERALA 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/aj.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/gokulam.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="http://a.j.institute/" target="_blank">
+                                    <a href="https://www.sgmc.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="http://a.j.institute/" target="_blank">
-                                        A.J.INSTITUTE OF MEDICAL SCIENCES, MANGALORE 
+                                    <a href="https://www.sgmc.in/" target="_blank">
+                                        SREE GOKULAM MEDICAL COLLEGE TRUST & RESEARCH FOUNDATION, TRIVANDRUM 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/st-johns.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/Somervell.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.stjohns.in/" target="_blank">
+                                    <a href="https://www.smcsimch.ac.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.stjohns.in/" target="_blank">
-                                        ST JOHN MEDICAL COLLEGE, BANGALORE 
+                                    <a href="https://www.smcsimch.ac.in/" target="_blank">
+                                        DR. SOMERVEL MEMORIAL CSI HOSPITAL & MEDICAL COLLEGE, KARAKONAM, THIRUVANANTHAPURAM
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/sri.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/sree.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.bmch.edu.in/" target="_blank">
+                                    <a href="https://sutams.edu.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.bmch.edu.in/" target="_blank">
-                                        SRI BASAVESHWARA MEDICAL COLLEGE AND HOSPITAL, CHITRADURGA 
+                                    <a href="https://sutams.edu.in/" target="_blank">
+                                        SREE UTHRADOM THIURNAL ACADEMY OF MEDICAL SCIENCES,TRIVANDRUM 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/bgsaims.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/pk.das.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://bgsaims.edu.in/admissions/pg-program/" target="_blank">
+                                    <a href="https://pkdims.org/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://bgsaims.edu.in/admissions/pg-program/" target="_blank">
-                                        ADICHUNCHANAGIRI INSTITUTE OF MEDICAL SCIENCES, BELLUR, 
+                                    <a href="https://pkdims.org/" target="_blank">
+                                        P K DAS INSTITUTE OF MEDICAL SCIENCES, PALAKKAD, KERALA 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/man.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/travancore.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="http://www.alameenmedical.org/" target="_blank">
+                                    <a href="https://tmc.ac.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="http://www.alameenmedical.org/" target="_blank">
-                                        MAN AL-AMEEN MEDICAL COLLEGE, VIJAYAPUR S. 
+                                    <a href="https://tmc.ac.in/" target="_blank">
+                                        TRAVANCORE MEDICAL COLLEGE, KOLLAM
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/nijalingappa.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/kmct.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.snmcbgk.in/courses.html" target="_blank">
+                                    <a href="https://www.kmctmedicalcollege.org/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.snmcbgk.in/courses.html" target="_blank">
-                                        NIJALINGAPPA MEDICAL COLLEGE AND RESEARCH CENTRE, BAGAL 
+                                    <a href="https://www.kmctmedicalcollege.org/" target="_blank">
+                                        KMCT MEDICAL COLLEGE,KOZHIKODE, CALICUT
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/nijalingappa.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/malabar.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://sdmmedicalcollege.org/postgraduate" target="_blank">
+                                    <a href="https://mmchospital.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://sdmmedicalcollege.org/postgraduate" target="_blank">
-                                        SDM COLLEGE OF MEDICAL SCIENCES AND HOSPITAL, DHARWAD
+                                    <a href="https://mmchospital.in/" target="_blank">
+                                        MALABAR MEDICAL COLLEGE, KOZHIKODE,CALICUT 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/mahadeva.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/karuna-2.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://mrmc.hkes.edu.in/load?menu=m03&page=eligibility-criteria" target="_blank">
+                                    <a href="https://karunamedicalcollege.com/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://mrmc.hkes.edu.in/load?menu=m03&page=eligibility-criteria" target="_blank">
-                                        MAHADEVAPPA RAMPURE MEDICAL COLLEGE, KALABURGI 
+                                    <a href="https://karunamedicalcollege.com/" target="_blank">
+                                        KARUNA MEDICAL COLLEGE, PALAKKAD
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/navodaya.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/kollam.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://medical.navodaya.edu.in/admissions/post-graduate/" target="_blank">
+                                    <a href="https://www.azeezia.com/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://medical.navodaya.edu.in/admissions/post-graduate/" target="_blank">
-                                        NAVODAYA MEDICAL COLLEGE, RAICHUR
+                                    <a href="https://www.azeezia.com/" target="_blank">
+                                        AZEEZIA INSTT OF MEDICAL SCIENCE,MEEYANNOOR,KOLLAM 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/muller.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/ernakulam.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="http://fathermuller.edu.in/medical-college/" target="_blank">
+                                    <a href="https://snims.org/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="http://fathermuller.edu.in/medical-college/" target="_blank">
-                                        FATHER MULLER INSTITUTE OF MED. EDUCATION & RESEARCH, 
+                                    <a href="https://snims.org/" target="_blank">
+                                        SREE NARAYANA INSTT. OF MEDICAL SCIENCES, CHALAKKA,ERNAKULAM
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/k-venkata.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/mount.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.kvgmch.org/course-details-pg-doctoral/#PG-course" target="_blank">
+                                    <a href="https://www.mountzionmedicalcollege.com/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.kvgmch.org/course-details-pg-doctoral/#PG-course" target="_blank">
-                                        K.VENKATARAMANA GOWDA MEDICAL COLLEGE AND HOSPITAL, DAKSHINA KANNADA
+                                    <a href="https://www.mountzionmedicalcollege.com/" target="_blank">
+                                        MOUNT ZION MEDICAL COLLEGE, CHAYALODE, EZHAMKULAM ADOOR, PATHANAMTHITTA
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/jjmc.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/al.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.jjmmc.org/courses/pg-course.php" target="_blank">
+                                    <a href="https://www.aamc.org.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.jjmmc.org/courses/pg-course.php" target="_blank">
-                                        JAYA JAGADGURU MURUGHARAJENDRA MEDICAL COLLEGE, DAVANGERE 
+                                    <a href="https://www.aamc.org.in/" target="_blank">
+                                        AL-AZHAR MEDICAL COLLEGE AND SUPER SPECIALITY HOSPITAL, THODUPUZHA 
                                     </a>    
                                 </h3>
                             </div>
                         </div>
                         <div class="list-info">
                             <div class="container-all">
-                                <img class="wrap" src="images/shymanuru.jpg" loading="lazy" alt="" />
+                                <img class="wrap" src="images/moopen.jpg" loading="lazy" alt=""/>
                                 <div class="overlay"></div>
                                 <div class="button">
-                                    <a href="https://www.ssimsrc.com/course/post-graduate.php" target="_blank">
+                                    <a href="https://www.drmoopensmc.ac.in/" target="_blank">
                                         Click here
                                     </a>
                                 </div>
                               </div>
                               <div class="hospital-header">
                                 <h3>
-                                    <a href="https://www.ssimsrc.com/course/post-graduate.php" target="_blank">
-                                        SHYMANURU SHIVASHANKARAPPA INSTITUTE OF MEDICAL SCIENCE AND RESEARCH CENTRE DAVANGERE 
+                                    <a href="https://www.drmoopensmc.ac.in/" target="_blank">
+                                        DR. MOOPEN S MEDICAL COLLEGE, WAYANAD, KERALA
                                     </a>    
                                 </h3>
                             </div>
                         </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/sapthagiri.jpg" loading="lazy" alt=""/>
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://simsrc.edu.in/postgraduate" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://simsrc.edu.in/postgraduate" target="_blank">
-                                        SAPTHAGIRI INSTITUTE OF MEDICAL SCIENCES, BANGALORE
-                                    </a>    
-                                </h3>
-                            </div>
+                        <div class="list-info last" style="background-color: transparent;">
                         </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/srinivasa.jpg" loading="lazy" alt=""/>
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://srinivasgroup.com/Srinivas-Institute-of-Medical-Sciences-and-Research-Center/PG-Departments" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://srinivasgroup.com/Srinivas-Institute-of-Medical-Sciences-and-Research-Center/PG-Departments" target="_blank">
-                                        SRINIVASA INSTITUTE OF MEDICAL RESEARCH CENTER, MANGALORE SUBBAIAH INSTITUTE OF MEDICAL SCIENCE, SHIMOGA 
-                                    </a>    
-                                </h3>
-                            </div>
                         </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/bgs.jpg" loading="lazy" alt=""/>
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://bgsgims.edu.in/post-graduate-md-ms/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://bgsgims.edu.in/post-graduate-md-ms/" target="_blank">
-                                        BGS GLOBAL INSTITUTE OF MEDICAL SCIENCES, KENGERI, BANGALORE
-                                    </a>    
-                                </h3>
-                            </div>
                         </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/shridevi.jpg" loading="lazy" alt=""/>
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://shridevimedical.org/index.php?option=com_content&view=article&id=12&Itemid=12" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://shridevimedical.org/index.php?option=com_content&view=article&id=12&Itemid=12" target="_blank">
-                                        SHRIDEVI INSTITUTE OF MEDICAL SCIENCES AND RESEARCH HOSPITAL, TUMKUR
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/oxford.jpg" loading="lazy" alt=""/>
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="http://theoxfordmedical.org/courses_offered.htm" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="http://theoxfordmedical.org/courses_offered.htm" target="_blank">
-                                        THE OXFORD MEDICAL COLLEGE HOSPITAL AND RESEARCH CENTER, JIGALA, 
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/akash.jpg" loading="lazy" alt=""/>
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://aimsrc.com/course-pg.html" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://aimsrc.com/course-pg.html" target="_blank">
-                                        AKASH INSTITUTE OF MEDICAL SCIENCES AND RESEARCH CENTRE, BANGALORE 
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/kanachur.jpg" loading="lazy" alt=""/>
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="http://www.kanachurims.com/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="http://www.kanachurims.com/" target="_blank">
-                                        KANACHUR INSTITUTE OF MEDICAL SCIENCES AND RESEARCH CENTRE 
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/east-point.jpg" loading="lazy" alt=""/>
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="http://www.epcms.ac.in/courses.html" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="http://www.epcms.ac.in/courses.html" target="_blank">
-                                        EAST POINT COLLEGE OF MEDICAL SCIENCES AND RESEARCH CENTRE
-                                    </a>    
-                                </h3>
-                            </div>
-                        </div>
-                    <div class="list-info last" style="background-color: transparent;">
-                    </div>
-                    </div>
-                 </div>
             </div>
           </div>
     </di>
@@ -734,12 +590,12 @@
         <h4 class="it-footer-title">our services:</h4>
         <div class="it-footer-list">
             <ul>
-                <li><a href="services-details-1.html"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                <li><a href="services-details-2.html"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                <li><a href="services-details-3.html"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                <li><a href="services-details-4.html"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                <li><a href="services-details-5.html"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                <li><a href="services-details-6.html"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
             </ul>
         </div>
         </div>
@@ -749,12 +605,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -767,42 +623,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>

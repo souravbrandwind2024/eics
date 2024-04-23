@@ -19,12 +19,12 @@
     <!-- google font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i&display=swap" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <!-- signika-google-font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap" rel="stylesheet">
+
     <!--slick-css-->
     <link href="css/plugins/slick.css" rel="stylesheet">
     <link href="css/plugins/slick-theme.css" rel="stylesheet">
@@ -68,23 +68,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -114,11 +114,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.html">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.html">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.html">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -133,202 +133,161 @@
 </header>
 <!-- menu-area-end -->
 
-<!-- mbbs-area-start -->
-<section class="mbbs-area">
+<!-- blog-details-area-start -->
+<section class="section section-blog section-pad">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <div class="heading">
-                    <h1>Medical Dreams with MBBS Programme</h1>
+            <div class="col-lg-8 res-m-bttm">
+                <div class="post post-single">
+                    <div class="post-entry">
+                        <h1>Conquer Your Dreams With EICS: Education India Career Services</h1>
+                    </div>
+                    <div class="post-thumbs">
+                        <img src="images/blog-post-1.jpg" loading="lazy" alt="">
+                    </div>
+                    <div class="post-meta">
+                        <span class="pub-date"><em class="fa fa-calendar" aria-hidden="true"></em> 14 March, 2024 </span>
+                    </div>
+                    <div class="post-entry">
+                        <p>
+                            Is saving lives your passion? Your aspiration to become a doctor may come true with EICS.
+                        </p>
+                        <h3 class="orange-final-blog">
+                            Pass NEET UG
+                        </h3>
+                        <ul class="list-style arrow">
+                           <li>
+                            The National Eligibility cum Entrance Test (NEET-UG) is the key that will unlock the door to your medical college dreams. Firstly, understand the syllabus properly. Focus on Physics, Chemistry, and Biology(PCB). Make use of NCERT textbooks as a basis. Explore reference materials and coaching institutes for a well-rounded approach.
+                           </li>
+                        </ul>
+                        <h3 class="orange-final-blog">
+                            Focus On Concepts
+                        </h3>
+                        <ul class="list-style arrow">
+                           <li>
+                            Don't just commit facts to memory. Understand the foundations of science to resolve even the most challenging problems. Becoming a doctor is a hard and lengthy path. Gain steadfast discipline and dedication to your objectives to maintain concentration along with effective communication ability.
+                           </li>
+                        </ul>
+                        <h3 class="orange-final-blog">
+                            Counseling
+                        </h3>
+                        <ul class="list-style arrow">
+                           <li>
+                            Seek advice from qualified EICS counselors who can assist you with the college application process, scholarship options, and application procedure. Be in the company of inspiring people to stay motivated, and celebrate your accomplishments.
+                           </li>
+                           <li>
+                            Get Career guidance from a qualified counselor from EICS. Our expert counselors offer individualized career counseling to help you realize your goals.
+                           </li>
+                        </ul>
+                        <h3 class="orange-final-blog">
+                            How to reach us?
+                        </h3>
+                        <ul class="list-style arrow">
+                           <li class="space-clear">
+                            You can reach us at +91 89459 47929 / +91 81019 15400 or via mail id- <span class="blue-link-blog"><a href="https://accounts.google.com/" target="_blank">sandip@eicsindia.org</a></span>, <span class="blue-link-blog"><a href="https://accounts.google.com/" target="_blank">educationindiacareerservises@gmail.com</a></span>
+                           </li>
+                        </ul>
+                        <h3 class="orange-final-blog">
+                            Do we provide personalized guidance?
+                        </h3>
+                        <ul class="list-style arrow">
+                           <li>
+                            Yes, we understand that each student is unique and has different aspirations. Our team of experienced counselors provides personalized guidance to help students make informed decisions about their medical careers.
+                           </li>
+                        </ul>
+                        <h3 class="orange-final-blog">
+                            To Sum Up
+                        </h3>
+                        <ul class="list-style arrow">
+                           <li>
+                            Although obtaining a spot in a medical institution can be tough, you can realize your dream with the correct planning, steadfast commitment, and a calculated strategy. Recall that this is a marathon, not a sprint, on this path. Remain committed, use the tools at your disposal, and never give up on your goal of becoming a doctor!
+                           </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
-        <ul class="nav nav-tabs" id="myTab" role="tablist">
-            <li class="nav-item">
-              <a class="nav-link active" id="bengal-tab" data-toggle="tab" href="#bengal" role="tab" aria-controls="bengal" aria-selected="true">West Bengal</a>
-            </li>
-          </ul>
-          <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="bengal" role="tabpanel" aria-labelledby="bengal-tab">
-                <div class="content-tab">
-                   <div class="list-area">
-                    <div class="list-info">
-                        <div class="container-all">
-                            <img class="wrap" src="images/kps.jpeg" loading="lazy" alt="" />
-                            <div class="overlay"></div>
-                            <div class="button">
-                                <a href="https://www.kpcmedicalcollege.in/page.php?page-id=13" target="_blank">Click here</a>
+
+
+            <!-- Sidebar -->
+            <aside class="col-lg-4">
+                <div class="sidebar-right">
+                    <div class="wgs-box wgs-search">
+                        <div class="wgs-content">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search...">
+                                <button class="search-btn"><i class="fa fa-search" aria-hidden="true"></i></button>
                             </div>
-                          </div>
-                          <div class="hospital-header">
-                            <h3>
-                                <a href="https://www.kpcmedicalcollege.in/page.php?page-id=13" target="_blank">
-                                    KPC MEDICAL COLLEGE & HOSPITAL, JADAVPUR, KOLKATA
-                                </a>    
-                            </h3>
                         </div>
                     </div>
-                    <div class="list-info">
-                        <div class="container-all">
-                            <img class="wrap" src="images/iq-city.jpg" loading="lazy" alt="" />
-                            <div class="overlay"></div>
-                            <div class="button">
-                                <a href="https://medical.iqcity.in/admission/" target="_blank">
-                                    Click here
-                                </a>
-                            </div>
-                          </div>
-                          <div class="hospital-header">
-                            <h3>
-                                <a href="https://medical.iqcity.in/admission/" target="_blank">
-                                    IQ CITY MEDICAL COLLEGE, DURGAPUR
-                                </a>    
-                            </h3>
-                        </div>
-                    </div>
-                    <div class="list-info">
-                        <div class="container-all">
-                            <img class="wrap" src="images/setgoi.jpg" loading="lazy" alt="" />
-                            <div class="overlay"></div>
-                            <div class="button">
-                                <a href="https://srims.setgoi.ac.in/admission.html" target="_blank">
-                                    Click here
-                                </a>
-                            </div>
-                          </div>
-                          <div class="hospital-header">
-                            <h3>
-                                <a href="https://srims.setgoi.ac.in/admission.html" target="_blank">
-                                    SRI RAMKRISHNA INSTITUTE OF MEDICAL SCIENCE & SANAKA HOSPITAL, DURGAPUR
-                                </a>    
-                            </h3>
-                        </div>
-                    </div>
-                    <div class="list-info">
-                        <div class="container-all">
-                            <img class="wrap" src="images/gimsh.jpeg" loading="lazy" alt="" />
-                            <div class="overlay"></div>
-                            <div class="button">
-                                <a href="https://gimsh.in/archives/courses/mbbs" target="_blank">
-                                    Click here
-                                </a>
-                            </div>
-                          </div>
-                          <div class="hospital-header">
-                            <h3>
-                                <a href="https://gimsh.in/archives/courses/mbbs" target="_blank">
-                                    GOURI DEVI INSTITUTE OF MEDICAL SCIENCE & HOSPITAL, DURGAPUR
-                                </a>    
-                            </h3>
-                        </div>
-                    </div>
-                    <div class="list-info">
-                        <div class="container-all">
-                            <img class="wrap" src="images/jimsh.jpg" loading="lazy" alt="" />
-                            <div class="overlay"></div>
-                            <div class="button">
-                                <a href="https://jimsh.org/MBBS_DETAILS" target="_blank">
-                                    Click here
-                                </a>
-                            </div>
-                          </div>
-                          <div class="hospital-header">
-                            <h3>
-                                <a href="https://jimsh.org/MBBS_DETAILS" target="_blank">
-                                    JAGANATHA GUPTA INSTITUTE OF MEDICAL SCIENCE & HOSPITAL , BUDGBUDG, KOLKATA
-                                </a>    
-                            </h3>
-                        </div>
-                    </div>
-                    <div class="list-info">
-                        <div class="container-all">
-                            <img class="wrap" src="images/ICARE-Medical-College-Haldia.jpg" loading="lazy" alt="" />
-                            <div class="overlay"></div>
-                            <div class="button">
-                                <a href="https://icaremedicalcollege.in/eligibility" target="_blank">
-                                    Click here
-                                </a>
-                            </div>
-                          </div>
-                          <div class="hospital-header">
-                            <h3>
-                                <a href="https://icaremedicalcollege.in/eligibility" target="_blank">
-                                    ICARE INSTITUTE OF MEDICAL SCIENCES AND RESEARCH AND DR. BIDHAN CHANDRA ROY HOSPITAL, HALDIA
-                                </a>    
-                            </h3>
-                        </div>
-                    </div>
-                    <div class="list-info">
-                        <div class="container-all">
-                            <img class="wrap" src="images/smc.jpg" loading="lazy" alt="" />
-                            <div class="overlay"></div>
-                            <div class="button">
-                                <a href="https://www.smcbangla.com/" target="_blank">
-                                    Click here
-                                </a>
-                            </div>
-                          </div>
-                          <div class="hospital-header">
-                            <h3>
-                                <a href="https://www.smcbangla.com/" target="_blank">
-                                    SANTINIKETAN MEDICAL COLLEGE, BOLPUR
-                                </a>    
-                            </h3>
-                        </div>
-                    </div>
-                    <div class="list-info">
-                        <div class="container-all">
-                            <img class="wrap" src="images/jismsr-2-scaled.jpg" loading="lazy" alt="" />
-                            <div class="overlay"></div>
-                            <div class="button">
-                                <a href="https://jismsr.org/course-details/" target="_blank">
-                                    Click here
-                                </a>
-                            </div>
-                          </div>
-                          <div class="hospital-header">
-                            <h3>
-                                <a href="https://jismsr.org/course-details/" target="_blank">
-                                    JIS SCHOOL OF MEDICAL SCIENCE & RESEARCH, KOLKATA
-                                </a>    
-                            </h3>
-                        </div>
-                    </div>
-                    <div class="list-info">
-                        <div class="container-all">
-                            <img class="wrap" src="images/jmnmedicalcollege.jpg" loading="lazy" alt="" />
-                            <div class="overlay"></div>
-                            <div class="button">
-                                <a href="https://www.jmnmedicalcollege.org.in/courses.html" target="_blank">
-                                    Click here
-                                </a>
-                            </div>
-                          </div>
-                          <div class="hospital-header">
-                            <h3>
-                                <a href="https://www.jmnmedicalcollege.org.in/courses.html" target="_blank">
-                                    JMN MEDICAL COLLEGE, CHAKDA
-                                </a>    
-                            </h3>
+                    <div class="wgs-box wgs-recents">
+                        <h3 class="wgs-heading">Recent Posts</h3>
+                        <div class="wgs-content">
+                            <ul class="blog-recent">
+                                <li>
+                                    <a href="blog-details-1.php">
+                                        <img src="images/recent-post-1.jpg" loading="lazy" alt="">
+                                        <p>Conquer Your Dreams With EICS: Education India Career Services</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="blog-details-2.php">
+                                        <img src="images/recent-post-2.jpg" loading="lazy" alt="">
+                                        <p>Medical College Admission Everything You Need to Know</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="blog-details-3.php">
+                                        <img src="images/recent-post-3.jpg" loading="lazy" alt="">
+                                        <p>
+                                            The Ultimate Guide to Navigating Medical College Admissions
+                                        </p>
+                                    </a>
+                                </li>
+
+
+                                <li>
+                                    <a href="blog-details-1.php">
+                                        <img src="images/recent-post-4.jpg" loading="lazy" alt="">
+                                        <p>Conquer Your Dreams With EICS: Education India Career Services</p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="blog-details-2.php">
+                                        <img src="images/recent-post-5.jpg" loading="lazy" alt="">
+                                        <p>Medical College Admission Everything You Need to Know</p>
+                                    </a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
 
-                    <div class="list-info last" style="background-color: transparent;">
-                      
-                    </div>
-                    <div class="list-info last" style="background-color: transparent;">
-                      
-                    </div>
-                    <div class="list-info last" style="background-color: transparent;">
-                      
-                    </div>
-                   </div>
+                    <!-- <div class="wgs-box wgs-contact-info">
+                        <h3 class="wgs-heading">How to contact us?</h3>
+                        <div class="wgs-content boxed">
+                            <ul class="contact-list">
+                                <li>
+                                    <i class="fa fa-map" aria-hidden="true"></i>
+                                    <span>RINA'S Apartment, 2nd floor, Sector 2B, Above Indian Bank, Near DDA Market, Bidhannagar, Durgapur Paschim Bardhaman - 713212</span>
+                                </li>
+                                <li>
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                    <span><a href="#">You can reach us at +91 89459 47929 / +91 81019 15400 or via mail id- sandip@eicsindia.org </a> 
+                                       </span>
+                                </li>
+                                <li>
+                                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                                    <span>Email : <a href="#">educationindiacareerservises@gmail.com</a></span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div> -->
                 </div>
-            </div>
-          </div>
-    </di>
+            </aside>
+            <!-- Sidebar #end -->
+        </div>
+    </div>
 </section>
-<!-- mbbs-area-end -->
+<!-- blog-details-area-end -->
 
 <!-- book-your-admission-area-start -->
 <section class="admission-area">
@@ -416,12 +375,12 @@
         <h4 class="it-footer-title">our services:</h4>
         <div class="it-footer-list">
             <ul>
-                <li><a href="services-details-1.html"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                <li><a href="services-details-2.html"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                <li><a href="services-details-3.html"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                <li><a href="services-details-4.html"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                <li><a href="services-details-5.html"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                <li><a href="services-details-6.html"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
             </ul>
         </div>
         </div>
@@ -431,12 +390,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -449,42 +408,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>

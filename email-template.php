@@ -7,7 +7,7 @@
 <table style="width:100%;float:left; background-color: #d59044">
 <tbody>
 <tr style="width:100%;float:left">
-<th style="padding:10px 0;width:100%;text-align:center; background-color:#292828;float:left"><span><a href="http://tcbmalibu.com/index.html"><img src="images/logo.png" alt style="max-width: 116px;"> </a> </span></th>
+<th style="padding:10px 0;width:100%;text-align:center; background-color:#292828;float:left"><span><a href="http://tcbmalibu.com/index.php"><img src="images/logo.png" alt style="max-width: 116px;"> </a> </span></th>
 </tr>
 <tr></tr>
 </tbody>

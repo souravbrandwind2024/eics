@@ -68,23 +68,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -114,11 +114,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.html">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.html">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.html">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -139,80 +139,132 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="heading">
-                    <h1>Medical Dreams with MBBS Programme</h1>
+                    <h1>Medical Dreams with MD/MS Programme</h1>
                 </div>
             </div>
         </div>
         <ul class="nav nav-tabs" id="myTab" role="tablist">
-        
-              <li class="nav-item">
-                <a class="nav-link active" id="haryana-tab" data-toggle="tab" href="#haryana" role="tab" aria-controls="haryana" aria-selected="false">haryana</a>
-              </li>
+            <li class="nav-item">
+              <a class="nav-link active" id="bengal-tab" data-toggle="tab" href="#bengal" role="tab" aria-controls="bengal" aria-selected="true">West Bengal</a>
+            </li>
           </ul>
           <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="haryana" role="tabpanel" aria-labelledby="haryana-tab">
+            <div class="tab-pane fade show active" id="bengal" role="tabpanel" aria-labelledby="bengal-tab">
                 <div class="content-tab">
-                    <div class="list-area">
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/adesh.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://amch.ac.in/admission/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://amch.ac.in/admission/" target="_blank">
-                                        ADESH MEDICAL COLLEGE KURUKSHETRA
-                                    </a>    
-                                </h3>
+                   <div class="list-area">
+                    <div class="list-info">
+                        <div class="container-all">
+                            <img class="wrap" src="images/kps.jpeg" loading="lazy" alt="" />
+                            <div class="overlay"></div>
+                            <div class="button">
+                                <a href="https://www.kpcmedicalcollege.in/page.php?page-id=21" target="_blank">Click here</a>
                             </div>
+                          </div>
+                          <div class="hospital-header">
+                            <h3>
+                                <a href="https://www.kpcmedicalcollege.in/page.php?page-id=21" target="_blank">
+                                    KPC MEDICAL COLLEGE & HOSPITAL, JADAVPUR, KOLKATA
+                                </a>    
+                            </h3>
                         </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/nc.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://ncmedicalcollege.com/course-of-mbbs/" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://ncmedicalcollege.com/course-of-mbbs/" target="_blank">
-                                        N.C. MEDICAL COLLEGE & HOSPITAL, PANIPATH
-                                    </a>    
-                                </h3>
+                    </div>
+                    <div class="list-info">
+                        <div class="container-all">
+                            <img class="wrap" src="images/iq-city.jpg" loading="lazy" alt="" />
+                            <div class="overlay"></div>
+                            <div class="button">
+                                <a href="https://medical.iqcity.in/admission/" target="_blank">
+                                    Click here
+                                </a>
                             </div>
+                          </div>
+                          <div class="hospital-header">
+                            <h3>
+                                <a href="https://medical.iqcity.in/admission/" target="_blank">
+                                    IQ CITY MEDICAL COLLEGE, DURGAPUR
+                                </a>    
+                            </h3>
                         </div>
-                        <div class="list-info">
-                            <div class="container-all">
-                                <img class="wrap" src="images/world.jpg" loading="lazy" alt="" />
-                                <div class="overlay"></div>
-                                <div class="button">
-                                    <a href="https://www.wcmsrh.com/admission.php" target="_blank">
-                                        Click here
-                                    </a>
-                                </div>
-                              </div>
-                              <div class="hospital-header">
-                                <h3>
-                                    <a href="https://www.wcmsrh.com/admission.php" target="_blank">
-                                        WORLD COLLEGE OF MEDICAL SCIENCES, JHAJJAR
-                                    </a>    
-                                </h3>
+                    </div>
+                    <div class="list-info">
+                        <div class="container-all">
+                            <img class="wrap" src="images/setgoi.jpg" loading="lazy" alt="" />
+                            <div class="overlay"></div>
+                            <div class="button">
+                                <a href="https://srims.setgoi.ac.in/admission.php" target="_blank">
+                                    Click here
+                                </a>
                             </div>
+                          </div>
+                          <div class="hospital-header">
+                            <h3>
+                                <a href="https://srims.setgoi.ac.in/admission.php" target="_blank">
+                                    SRI RAMKRISHNA INSTITUTE OF MEDICAL SCIENCE & SANAKA HOSPITAL, DURGAPUR
+                                </a>    
+                            </h3>
                         </div>
-
+                    </div>
+                    <div class="list-info">
+                        <div class="container-all">
+                            <img class="wrap" src="images/gimsh.jpeg" loading="lazy" alt="" />
+                            <div class="overlay"></div>
+                            <div class="button">
+                                <a href="https://gimsh.in/" target="_blank">
+                                    Click here
+                                </a>
+                            </div>
+                          </div>
+                          <div class="hospital-header">
+                            <h3>
+                                <a href="https://gimsh.in/" target="_blank">
+                                    GOURI DEVI INSTITUTE OF MEDICAL SCIENCE & HOSPITAL, DURGAPUR
+                                </a>    
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="list-info">
+                        <div class="container-all">
+                            <img class="wrap" src="images/jimsh.jpg" loading="lazy" alt="" />
+                            <div class="overlay"></div>
+                            <div class="button">
+                                <a href="https://jimsh.org/PG_MD/MS_ELIGIBILITY_CRITERIA" target="_blank">
+                                    Click here
+                                </a>
+                            </div>
+                          </div>
+                          <div class="hospital-header">
+                            <h3>
+                                <a href="https://jimsh.org/PG_MD/MS_ELIGIBILITY_CRITERIA" target="_blank">
+                                    JAGANATHA GUPTA INSTITUTE OF MEDICAL SCIENCE & HOSPITAL , BUDGBUDG, KOLKATA
+                                </a>    
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="list-info">
+                        <div class="container-all">
+                            <img class="wrap" src="images/ICARE-Medical-College-Haldia.jpg" loading="lazy" alt="" />
+                            <div class="overlay"></div>
+                            <div class="button">
+                                <a href="https://icaremedicalcollege.in/clinical" target="_blank">
+                                    Click here
+                                </a>
+                            </div>
+                          </div>
+                          <div class="hospital-header">
+                            <h3>
+                                <a href="https://icaremedicalcollege.in/clinical" target="_blank">
+                                    ICARE INSTITUTE OF MEDICAL SCIENCES AND RESEARCH AND DR. BIDHAN CHANDRA ROY HOSPITAL, HALDIA
+                                </a>    
+                            </h3>
+                        </div>
+                    </div>
+                    
                     <div class="list-info last" style="background-color: transparent;">
-                      
                     </div>
+                    <div class="list-info last" style="background-color: transparent;">
                     </div>
-                 </div>
+                   </div>
+                </div>
             </div>
           </div>
     </di>
@@ -305,12 +357,12 @@
         <h4 class="it-footer-title">our services:</h4>
         <div class="it-footer-list">
             <ul>
-                <li><a href="services-details-1.html"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                <li><a href="services-details-2.html"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                <li><a href="services-details-3.html"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                <li><a href="services-details-4.html"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                <li><a href="services-details-5.html"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                <li><a href="services-details-6.html"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
             </ul>
         </div>
         </div>
@@ -320,12 +372,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -338,42 +390,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>

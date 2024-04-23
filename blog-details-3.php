@@ -67,23 +67,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.html">About</a>
+                              <a class="nav-link underline" href="about-us.php">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.html">Services</a>
+                            <a class="nav-link underline" href="services.php">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.html">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.html">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.html">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.html">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.html">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.html">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -113,11 +113,11 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.html">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.html">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.html">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.html">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.html">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -139,146 +139,157 @@
             <div class="col-lg-8 res-m-bttm">
                 <div class="post post-single">
                     <div class="post-entry">
-                        <h1>Medical College Admission Everything You Need to Know
+                        <h1>The Ultimate Guide to Navigating Medical College Admissions            
                         </h1>
-                    </div>
+                        </div>
                     <div class="post-thumbs">
-                        <img src="images/blog-details-4.png" loading="lazy" alt="">
+                        <img src="images/blog-details-new-3.jpg" loading="lazy" alt="">
                     </div>
                     <div class="post-meta">
                         <span class="pub-date"><em class="fa fa-calendar" aria-hidden="true"></em> 14 March, 2024 </span>
                     </div>
                     <div class="post-entry">
                         <p>
-                            A career in the medical profession is fascinating as well as challenging. Following the challenges of an MBBS degree, one encounters numerous career prospects compared to other bachelor’s degrees. MBBS is a five-year bachelor's degree course in which students learn about human anatomy, physiology, and pharmacology. It is the first step for the students to become doctors.
+                            Have you ever dreamt of becoming a Doctor but need help figuring out where to start? There are many UG and PG courses available to pursue a career in Medicine and gain admission to medical colleges. But for that, you need to know how to pursue the career of your dreams. According to a report published in May 2023, about 703 medical colleges in India offer Undergraduate courses in Medicine and provide about 1.18 lakh seats for aspiring medical students. In this blog, we’ll know in detail how to apply for these medical colleges and guide you in preparing for the exams.
                         </p>
-                    
-                            <h3 class="orange-final-blog">Some tips you know before taking admission:</h3>
-                          
-              
-                   <p>A) You should have basic knowledge of the course details.</p>
-                   <p>B) Realistic understanding of the demands of the course.</p>
-                   <p>C) You should have a clear idea about the course fees and time duration.</p>
-                   <p>
-                    D) Numerous subjects are covered during this MBBS course, so you have to break down every topic into manageable parts for easy understanding.
-                   </p>
+                        <p>
+                            Things you need to know to pursue medicine as a career. Medicine is one of the most popular courses available in India. With the help of proper guidance and knowledge, everyone can fulfill their dreams of becoming a doctor. In India, a degree of MBBS (Bachelor of Medicine & Bachelor of Surgery) can be achieved after cracking the NEET (National eligibility-cum-entrance test) exam.
+                        </p>
+                        <p>
+                            First and foremost, students need to achieve a good rank to get admission to government and private colleges. MBBS is a five-and-a-half-year integrated course with a 1-year internship program.
+                        </p>
+                        <p>
+                            After MBBS, one can pursue higher education in medicine and apply for courses like MS( Master of Surgery) and MD(Doctor of Medicine). These are Post Graduate courses available in India. Apart from that, BDS(Bachelor of Dental Surgery), a five-year integrated course with a 1-year internship, is also available.
+                        </p>
+                        <p>
+                            These are the courses that one can pursue in the field of medicine.
+                        </p>
+                        <h3 class="orange-final-blog">
+                            Eligibility for getting admission in MBBS courses 
+                        </h3>
+                        <p>
+                            Several criteria need to be fulfilled for enrolling in MBBS courses
+                        </p>
 
-                   <h3 class="orange-final-blog">
-                    <!-- Tips and Tricks to Help You Land That Medical College Seat -->
-                How to prepare for NEET-PG?
-                   </h3>
-                   <h3 class="orange-final-blog">
-                    Course Duration
-                   </h3>
-                   <p>
-                    This undergraduate course takes almost 5.5 years, including the one-year fundamental internship period.
-                   </p>
 
-                   <h3 class="orange-final-blog">
-                    Subjects
-                   </h3>
-                   <p>
-                    The MBBS course encompasses 19 subjects across its curriculum, including physiology, anatomy, pharmacology, and pathology. Each period of study explores these fundamental areas, providing a comprehensive understanding of the medical sciences.
-                   </p>
-                   <h3 class="orange-final-blog">
-                    Eligibility
-                   </h3>
-                   <p>
-                    Students admitted to this course must clear their class 10+2 board exam with a minimum 55% number. Also, they must have passed from science stream in class 12. Career opportunity: In MBBS, career opportunities are also more than other bachelor's degrees. After completing MBBS, graduates can practice as physicians in govt or private hospitals. 
-                   </p>
-                   <h3 class="orange-final-blog">
-                    What is the MBBS admission process in India?
-                   </h3>
-                   <h3 class="orange-final-blog">
-                    For government colleges:
-                   </h3>
-                   <p>
-                    The medical college admission process in India involves clearing entrance exams NEET (National Eligibility cum Entrance Test), followed by counseling conducted by respective authorities(NMC). NEET scores are usually the primary criterion for admission to undergraduate medical courses. After clearing the exam, candidates participate in counseling sessions to secure seats in medical colleges based on their ranks and preferences. 
-                   </p>
-                   <h3 class="orange-final-blog">
-                    For private colleges: 
-                   </h3>
-                   <p>
-                    Admission to private MBBS colleges in India is similar to government colleges.  After passing the entrance exam, candidates must participate in counseling organized by the Centralized Counseling Institution OR State Counselling Institution. Places are allocated based on merit, including exam results.
-                   </p>
-                   <h3 class="orange-final-blog">
-                    About EICS: 
-                   </h3>
-                   <p>
-                    EICS (Education India Career Services) is your trusted partner for medical college admission in India. EICS is a government-registered education service provider from West Bengal. We provide expert guidance and aspiring students to pursue an MBBS degree. We support student and their families from the beginning stage to the final admission.
-                   </p>
-                   <h3 class="orange-final-blog">
-                    Services provided by EICS: 
-                   </h3>
-                   <p>
-                    We provide services to students for admission to medical colleges all over India. Also, it helps to take the MBBS admission lowest package.
-                   </p>
-                   <ul>
-                    <li>
-                        <i class="fas fa-circle"></i>
-                        <span class="orange-final">A) Personalized Counselling: </span>
-                        Every student dreams about their personal goals. Our expert team ensures that every student’s individual needs and aspirations are met. Whatever thoughts you have regarding the admission or education criteria, ask our expert who will guide you in the right way.
-                    </li>
-                    <li>
-                        <i class="fas fa-circle"></i>
-                        <span class="orange-final">B) Complete Assistance:</span>
-                        We provide you with complete assistance regarding the application process and entrance exam preparations. also, you know about the MBBS fee structure in Pan India and all other doubts you have.
-                    </li>
-                    <li>
-                        <i class="fas fa-circle"></i>
-                        <span class="orange-final">C) Stay updated:</span>
-                        In the current scenario, multiple colleges are up-coming, and exam and admission patterns are also updated day by day. We always help you to stay updated.
-                    </li>
-                    <li>
-                        <i class="fas fa-circle"></i>
-                        <span class="orange-final">D) Access to a wide network of private colleges:</span>
-                        Our exclusive network across India opens up an abundance of options for students. We ensure the right college for the students at minimal cost.  
-                    </li>
-                    <li>
-                        Through EICS, you can gain admission to many well-known medical colleges at the lowest package,
-                    </li>
-                    <li>
-                        For example, In West Bengal, we can help you to get admission at a reasonable cost. Through us, you can comfortably gain admission to any of the popular medical colleges in India.
-                    </li>
-                   </ul>
+                        <ul>
+                            <li>
+                                <span class="orange-final"> 1. Nationality</span>
+                            </li>
+                            <li>
+                                An Indian citizen or an Overseas Citizen of India (OCI) can only apply for the NEET examination.
+                            </li>
+                            <li>
+                                <span class="orange-final"> 2. Age</span>
+                            </li>
+                            <li>
+                                The minimum age of a candidate should be at least 17 years during admission. There is no upper age limit for applying for the NEET examination. However, it may vary according to the course and college preference.
+                            </li>
+                            <li>
+                                <span class="orange-final"> 3. Educational Qualifications</span>
+                            </li>
+                            <li>
+                                The candidate must have passed 10+2 or an equivalent examination with significant 50% to 60% marks (for the general category) from a recognized board.
+                            </li>
+                            <li>
+                                <span class="orange-final"> 4. Mandatory Subjects</span>
+                            </li>
+                            <li>
+                                The mandatory subjects that the candidate must study include Physics, Chemistry, Biology/Biotechnology, and English as core subjects in the qualifying examination.  
+                            </li>
+                            <li>
+                                <span class="orange-final"> 5. Qualifying NEET</span>
+                            </li>
+                            <li>
+                                To get admission to any medical college, the candidate must qualify for the NEET exam and get the required minimum score. So, let us know in greater detail about the pattern of the NEET exam.
+                            </li>
+                            <li>
+                                Steps for applying for the NEET exam: There are a few steps that you need to follow to apply for the NEET examination. Follow the steps mentioned below-
+                            </li>
+                        </ul>
 
-                   <ul>
-                    <li>
-                        <span class="orange-final">FAQs</span>
-                    </li>
-                    <li>
-                        <span class="orange-final">1) Is MBBS a doctorate?</span>
-                    </li>
-                    <li>
-                        No, this is a bachelor's degree in medicine.
-                    </li>
-                    <li>
-                        <span class="orange-final">2) Is MD better than MBBS?</span>
-                    </li>
-                    <li>
-                        MD is an advanced degree in medicine after MBBS. It is a specialization in a specific area of medicine.
-                    </li>
-                    <li>
-                        <span class="orange-final">3) Is there a good private MBBS college in West Bengal?</span>
-                    </li>
-                    <li>
-                        Yes, there are numerous good private medical colleges in West Bengal. Namely, KPC Medical College, IQ City Medical College, Gouri Devi Medical College, Sanaka Medical College, JIS Santragachi, and Jagannath Gupta Institute of Medical Science.
-                    </li>
-                   </ul>
-                   <ul>
-                    <li>
-                        <span class="orange-final">Conclusion :</span>
-                    </li>   
-                    <li>
-                        The medical field is one of the most responsible and respected sectors in India, so those who dreamed about pursuing a bachelor’s degree in medicine can go ahead and chase their dream. EICS as a partner in their education life always guides students about every aspect of MBBS admissions. Also, helped to choose the right path for their education in medicine at a very minimal cost. EICS always stands with future doctors of India.
-                    </li>
-                   </ul>
+
+                        <ul>
+                            <li>
+                                <span class="orange-final">Step 1: Form fillup for the NEET UG program:</span>
+                                The first step is to apply for the NEET UG exam form. The National Test Agency(NTA) is responsible for conducting the NEET examination across various states in India. NTA is an autonomous organization that works under the Ministry of Education under the Government of India. To stay updated about the dates when the form fillup starts, visit the Official NEET website and fill up the form within the given period.
+                            </li>
+                            <li>
+                                <span class="orange-final">Step 2: Qualify for the NEET examination:</span>
+                                The next step is to appear and qualify for the NEET examination. For this, you need to work hard with proper guidance. Hard work will show its result in your rank.
+                            </li>
+                            <li>
+                                <span class="orange-final">Step 3: Select your preferred college:</span>
+                                Once you have cleared the NEET examination, it is time to find a preferable medical college for admission suitable for you. According to your NEET score, preferred location, fee structure, and other facilities. The college selection is a critical step as you’ll invest the remaining 5 years here for your degree. Do proper research and select the best possible option available to you.
+                            </li>
+                            <li>
+                                <span class="orange-final">Step 4: Register for counseling and choice filling:</span>
+                                Now that you have shortlisted the colleges of your choice, you need to apply for the counseling process. Once you have joined the counseling, fill up the colleges according to your preferences.
+                            </li>
+                            <li>
+                                <span class="orange-final">Step 5: Seat allotment and document verification:</span>
+                                Once the counseling process is over and you have your seat allotted in the specific college of your choice, based on your rank, and seat availability, now it is time to visit the college/Authorized Center for document verification. Carry all the original copies of the documents asked for along with the attested copies. Make sure the verification process is correct, or else your seat might get canceled.
+                            </li>
+                            <li>
+                                <span class="orange-final">Step 6: Payment and seat acceptance:</span>
+                                The last step of this process is to submit the fees for your admission to the allotted college. This is the final process for seat acceptance and now you can join your college whenever your college gives you the joining date. By following these simple steps, you can easily get into the Top medical colleges of your choice. However, this process can be overwhelming for many people. For this reason, several well-known organizations like EICS help to simplify the process and help you to make the right decision.
+                            </li>
+                        </ul>
+
+                        <h3 class="orange-final-blog">
+                            Why EICS? 
+                        </h3>
+                        <p>
+                            We understand the process of choosing the right career option can be confusing and overwhelming at the same time. If you are someone looking for the best MBBS courses in India, EISC can help you choose the best fit for your career. Here at EICS, we help you to get a clear vision by providing the following-
+                        </p>
+                        <ul>
+                            <li>
+                                <span class="orange-final">1. All-rounder guidance</span>
+                                Here at EICS, we help you from the base levels, from applying for entrance exams to helping you prepare for them. 
+                            </li>
+                            <li>
+                                <span class="orange-final">2. One-to-one Counseling</span>
+                                Each student has a different journey when it comes to choosing the right career option. With personalized guidance, we can help each student with their specific needs, be it eligibility criteria, fee structure, or choosing the right course. We can help them solve each of their problems on a personal level.
+                            </li>
+                            <li>
+                                <span class="orange-final">3. Constant Updates</span>
+                                Each student has a different journey when it comes to choosing the right career option. With personalized guidance, we can help each student with their specific needs, be it eligibility criteria, fee structure, or choosing the right course. We can help them solve each of their problems on a personal level.
+                            </li>
+                        </ul>
+                        <h3 class="orange-final-blog">
+                            FAQ’s
+                        </h3>
+                        <ul>
+                            <li>
+                                <span class="orange-final">1) Are there good MBBS colleges in West Bengal?</span>
+                                Each student has a different journey when it comes to choosing the right career option. With personalized guidance, we can help each student with their specific needs, be it eligibility criteria, fee structure, or choosing the right course. We can help them solve each of their problems on a personal level.
+                            </li>
+                            <li>
+                                <span class="orange-final">2) Is it possible for an average student to crack the NEET exam?</span>
+                                Of course, one can. With proper guidance and focused studies, one can surely crack the NEET examination. Consistency and hard work can make anything possible.
+                            </li>
+                            <li>
+                                <span class="orange-final">3) Are MBBS courses in PAN India very expensive?</span>
+                                Medical courses are not at all expensive if one can crack the NEET examination and join a prestigious government medical college around PAN India. However, the course of private medical colleges is comparatively higher than that of government colleges.
+                            </li>
+                        </ul>
+                        <h3 class="orange-final-blog">
+                            Let’s Sum Up
+                        </h3>
+                        <p>
+                            Hopefully, by now, you have a good idea of how to apply for medical colleges and what kind of courses are available to choose from. Here at EICS, we try to provide you with the best career options and guidance to help you build a better future. You can visit our <span class="blue-link-blog"><a href="https://eics.brandwind.in/" target="_blank">website</a></span> to get further details about the service we provide.
+                        </p>
+                        <p>
+                            If you have any queries regarding admission or guidance for Medical college admission, feel free to contact us. 
+                        </p>
+                        <p>
+                            Let's build a secure and brighter future together. See you in another blog. Till then, take care.
+                        </p>
                 </div>
             </div>
         </div>
-
-      <!-- Sidebar -->
-      <aside class="col-lg-4">
+       <!-- Sidebar -->
+       <aside class="col-lg-4">
         <div class="sidebar-right">
             <div class="wgs-box wgs-search">
                 <div class="wgs-content">
@@ -293,19 +304,19 @@
                 <div class="wgs-content">
                     <ul class="blog-recent">
                         <li>
-                            <a href="blog-details-1.html">
+                            <a href="blog-details-1.php">
                                 <img src="images/recent-post-1.jpg" loading="lazy" alt="">
                                 <p>Conquer Your Dreams With EICS: Education India Career Services</p>
                             </a>
                         </li>
                         <li>
-                            <a href="blog-details-2.html">
+                            <a href="blog-details-2.php">
                                 <img src="images/recent-post-2.jpg" loading="lazy" alt="">
                                 <p>Medical College Admission Everything You Need to Know</p>
                             </a>
                         </li>
                         <li>
-                            <a href="blog-details-3.html">
+                            <a href="blog-details-3.php">
                                 <img src="images/recent-post-3.jpg" loading="lazy" alt="">
                                 <p>
                                     The Ultimate Guide to Navigating Medical College Admissions
@@ -315,13 +326,13 @@
 
 
                         <li>
-                            <a href="blog-details-1.html">
+                            <a href="blog-details-1.php">
                                 <img src="images/recent-post-4.jpg" loading="lazy" alt="">
                                 <p>Conquer Your Dreams With EICS: Education India Career Services</p>
                             </a>
                         </li>
                         <li>
-                            <a href="blog-details-2.html">
+                            <a href="blog-details-2.php">
                                 <img src="images/recent-post-5.jpg" loading="lazy" alt="">
                                 <p>Medical College Admission Everything You Need to Know</p>
                             </a>
@@ -443,12 +454,12 @@
         <h4 class="it-footer-title">our services:</h4>
         <div class="it-footer-list">
             <ul>
-                <li><a href="services-details-1.html"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                <li><a href="services-details-2.html"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                <li><a href="services-details-3.html"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                <li><a href="services-details-4.html"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                <li><a href="services-details-5.html"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                <li><a href="services-details-6.html"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
             </ul>
         </div>
         </div>
@@ -458,12 +469,12 @@
         <h4 class="it-footer-title">quick links:</h4>
         <div class="it-footer-list">
         <ul>
-        <li><a href="about-us.html"><i class="fas fa-angle-right"></i>About us</a></li>
-        <li><a href="services.html"><i class="fas fa-angle-right"></i>services</a></li>
-        <li><a href="mbbs.html"><i class="fas fa-angle-right"></i>MBBS</a></li>
-        <li><a href="md-ms.html"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-        <li><a href="gallery.html"><i class="fas fa-angle-right"></i>Gallery</a></li>
-        <li><a href="blog.html"><i class="fas fa-angle-right"></i>Blog</a></li>
+        <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
+        <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
+        <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
+        <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+        <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
+        <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
         <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
         </ul>
         </div>
@@ -476,42 +487,42 @@
         <div class="row gx-5">
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-1.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb mb-10">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-2.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4 mb-10">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-3.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-4.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-5.png" loading="lazy" alt="">
             </a>
         </div>
         </div>
         <div class="col-md-4 col-4">
         <div class="it-footer-thumb">
-            <a href="gallery.html">
+            <a href="gallery.php">
                 <img src="images/thumb-6.png" loading="lazy" alt="">
             </a>
         </div>
