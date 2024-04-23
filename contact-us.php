@@ -158,8 +158,9 @@
     </div>
     </div>
     <div class="col-md-6 col-sm-6">
-    <h4> <a href="#">+91 89459 47929 <br>
-         +91 81019 15400</a> </h4>
+    <h4> 
+        <a href="tel:+918945947929">+91 89459 47929</a><br>
+        <a href="tel:+918101915400">+91 81019 15400</a> </h4>
     </div>
     </div>
     <div class="row">
@@ -184,7 +185,7 @@
     </div>
     </div>
     <div class="col-md-6 col-sm-6">
-    <h4> <a class="contact" href="#">educationindiacareerservises@gmail.com</a></h4>
+    <h4> <a class="contact" href="mailto:educationindiacareerservises@gmail.com">educationindiacareerservises@gmail.com</a></h4>
     </div>
     </div>
     <!-- <div class="row">

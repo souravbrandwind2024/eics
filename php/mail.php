@@ -63,7 +63,7 @@ function sendMail($data){
 
         $mail->setFrom('webadmin@eicsindia.org', $data['first_name']);
         // $mail->addAddress('kunal@brandwind.in');
-        $mail->addAddress('contact@eicsindia.org');
+        $mail->addAddress('educationindiacareerservises@gmail.com');
         $mail->addReplyTo($data['email'], $data['first_name']);
         $message = "
             <h4>You receved an enquery from website</h4>
