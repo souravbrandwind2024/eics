@@ -26,7 +26,7 @@
                     <button id="nl-button" type="button" class="cstm-btn">Subscribe</button>
                     <!-- <a class="cstm-btn" href="#">Subscribe</a> -->
                 </div>
-                <div class="alert nl-alert alert-success d-none" style="width: fit-content; margin-top: 16px">Consultations! You are now part of our email list.</div>
+                <div class="alert nl-alert alert-success d-none" style="width: fit-content; margin-top: 16px">Congratulations! You are now part of our email list.</div>
                 <div class="alert nl-alert alert-danger d-none" style="width: fit-content; margin-top: 16px">Something went wrong! Please try again.</div>
             </div>
         </div>
@@ -165,6 +165,7 @@
 
 
 <script src="js/plugins/jquery-3.4.1.min.js"></script>
+
 <script>
     $(document).ready(function() {
 
