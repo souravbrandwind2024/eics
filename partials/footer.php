@@ -56,7 +56,7 @@
                             <a href="https://www.facebook.com/educationindiacareerserveses" target="_blank" data-placement="top" data-toggle="tooltip" title="Facebook"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.instagram.com/education_india_career/" target="_blank" data-toggle="tooltip" title="instagram"><i class="fab fa-instagram"></i></a>
                             <a href="https://www.youtube.com/@educationindiacareerservices" target="_blank" data-toggle="tooltip" title="youtube"><i class="fab fa-youtube"></i></a>
-                            <a href="https://web.whatsapp.com/" target="_blank" data-toggle="tooltip" title="whatsapp"><i class="fab fa-whatsapp"></i></a>
+                            <a href="https://wa.me/message/DBTT3CKIKYBEH1" target="_blank" data-toggle="tooltip" title="whatsapp"><i class="fab fa-whatsapp"></i></a>
                         </div>
                     </div>
                 </div>
