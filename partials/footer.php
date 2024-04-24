@@ -99,42 +99,42 @@
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb mb-10">
                                         <a href="gallery.php">
-                                            <img src="images/thumb-1.png" loading="lazy" alt="">
+                                        <img src="images/recent-post-1.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb mb-10">
                                         <a href="gallery.php">
-                                            <img src="images/thumb-2.png" loading="lazy" alt="">
+                                        <img src="images/recent-post-2.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4 mb-10">
                                     <div class="it-footer-thumb">
                                         <a href="gallery.php">
-                                            <img src="images/thumb-3.png" loading="lazy" alt="">
+                                        <img src="images/recent-post-3.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb">
                                         <a href="gallery.php">
-                                            <img src="images/thumb-4.png" loading="lazy" alt="">
+                                        <img src="images/recent-post-4.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb">
                                         <a href="gallery.php">
-                                            <img src="images/thumb-5.png" loading="lazy" alt="">
+                                        <img src="images/recent-post-5.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb">
                                         <a href="gallery.php">
-                                            <img src="images/thumb-6.png" loading="lazy" alt="">
+                                        <img src="images/recent-post-6.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
