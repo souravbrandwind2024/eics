@@ -65,12 +65,12 @@
                         <h4 class="it-footer-title">our services:</h4>
                         <div class="it-footer-list">
                             <ul>
-                                <li><a href="services-details-1.php"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
-                                <li><a href="services-details-2.php"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
-                                <li><a href="services-details-3.php"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
-                                <li><a href="services-details-4.php"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
-                                <li><a href="services-details-5.php"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
-                                <li><a href="services-details-6.php"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
+                                <li><a href="/services-details-1"><i class="fas fa-angle-right"></i>Simplify the Admission Process</a></li>
+                                <li><a href="/services-details-2"><i class="fas fa-angle-right"></i>Access to Wide Network of Private Colleges</a></li>
+                                <li><a href="/services-details-3"><i class="fas fa-angle-right"></i>Provide Personalized Guidance</a></li>
+                                <li><a href="/services-details-4"><i class="fas fa-angle-right"></i>Facilitate Online Career Consultations</a></li>
+                                <li><a href="/services-details-5"><i class="fas fa-angle-right"></i>Navigate Students Through the Online Admission Process</a></li>
+                                <li><a href="/services-details-6"><i class="fas fa-angle-right"></i>Bring Years of Experience to the Table</a></li>
                             </ul>
                         </div>
                     </div>
@@ -80,13 +80,13 @@
                         <h4 class="it-footer-title">quick links:</h4>
                         <div class="it-footer-list">
                             <ul>
-                                <li><a href="about-us.php"><i class="fas fa-angle-right"></i>About us</a></li>
-                                <li><a href="services.php"><i class="fas fa-angle-right"></i>services</a></li>
-                                <li><a href="mbbs.php"><i class="fas fa-angle-right"></i>MBBS</a></li>
-                                <li><a href="md-ms.php"><i class="fas fa-angle-right"></i>MD / MS</a></li>
-                                <li><a href="gallery.php"><i class="fas fa-angle-right"></i>Gallery</a></li>
-                                <li><a href="blog.php"><i class="fas fa-angle-right"></i>Blog</a></li>
-                                <li><a href="contact-us.php"><i class="fas fa-angle-right"></i>Contact Us</a></li>
+                                <li><a href="/about-us"><i class="fas fa-angle-right"></i>About us</a></li>
+                                <li><a href="/services"><i class="fas fa-angle-right"></i>services</a></li>
+                                <li><a href="/mbbs"><i class="fas fa-angle-right"></i>MBBS</a></li>
+                                <li><a href="/md-ms"><i class="fas fa-angle-right"></i>MD / MS</a></li>
+                                <li><a href="/gallery"><i class="fas fa-angle-right"></i>Gallery</a></li>
+                                <li><a href="/blog"><i class="fas fa-angle-right"></i>Blog</a></li>
+                                <li><a href="/contact-us"><i class="fas fa-angle-right"></i>Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -98,42 +98,42 @@
                             <div class="row gx-5">
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb mb-10">
-                                        <a href="gallery.php">
+                                        <a href="/gallery">
                                         <img src="images/recent-post-1.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb mb-10">
-                                        <a href="gallery.php">
+                                        <a href="/gallery">
                                         <img src="images/recent-post-2.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4 mb-10">
                                     <div class="it-footer-thumb">
-                                        <a href="gallery.php">
+                                        <a href="/gallery">
                                         <img src="images/recent-post-3.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb">
-                                        <a href="gallery.php">
+                                        <a href="/gallery">
                                         <img src="images/recent-post-4.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb">
-                                        <a href="gallery.php">
+                                        <a href="/gallery">
                                         <img src="images/recent-post-5.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-4">
                                     <div class="it-footer-thumb">
-                                        <a href="gallery.php">
+                                        <a href="/gallery">
                                         <img src="images/recent-post-6.jpg" loading="lazy" alt="">
                                         </a>
                                     </div>

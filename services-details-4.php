@@ -68,13 +68,13 @@
                     <h3 class="sidebar-heading">Services</h3>
                     <div class="sidebar-body">
                         <ul class="service-list">
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.php"> Simplify the Admission Process</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-2.php"> Access to Wide Network of Private Colleges</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-3.php"> Provide Personalized Guidance</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-4.php"> Facilitate Online Career Consultations</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-5.php"> Navigate Students Through the Online Admission Process</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-6.php"> Bring Years of Experience to the Table</a></li>
-                            <li><i class="fas fa-chevron-right"></i><a href="services-details-1.php"> Simplify the Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="/services-details-1"> Simplify the Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="/services-details-2"> Access to Wide Network of Private Colleges</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="/services-details-3"> Provide Personalized Guidance</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="/services-details-4"> Facilitate Online Career Consultations</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="/services-details-5"> Navigate Students Through the Online Admission Process</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="/services-details-6"> Bring Years of Experience to the Table</a></li>
+                            <li><i class="fas fa-chevron-right"></i><a href="/services-details-1"> Simplify the Admission Process</a></li>
                         </ul>
                     </div>
                 </aside>
@@ -95,7 +95,7 @@
             </p>
             <div class="col-md-12">
                 <div class="button-area text-center">
-                    <a class="cstm-btn" href="contact-us.php">
+                    <a class="cstm-btn" href="/contact-us">
                         Contact Us
                     </a>
                 </div>

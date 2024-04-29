@@ -72,23 +72,23 @@
                               <a class="nav-link underline" href="/">Home</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="about-us.php">About</a>
+                            <a class="nav-link underline" href="/about-us">About</a>
                         </li>
                         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                          <a class="nav-link underline" href="services.php">Services</a>
+                          <a class="nav-link underline" href="/services">Services</a>
                       </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                               <ul class="dropdown-menu">
-                                  <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
-                                  <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
-                                  <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
-                                  <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
-                                  <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
-                                  <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
-                                  <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
-                                  <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-west-bengal">West Bengal</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-bihar">Bihar</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-uttar-pradesh">Uttar Pradesh</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-andhra-pradesh">Andhra Pradesh</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-haryana">Haryana</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-karnataka">Karnataka</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-kerala">Kerala</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-deemed">Deemed University</a></li>
                               </ul>
                           </li>
                           <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -118,15 +118,15 @@
                             <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                             <ul class="dropdown-menu">
-                              <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
-                                <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
-                                <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
-                                <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
-                                <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
+                              <li><a class="dropdown-item" href="/md-ms-west-bengal">West Bengal</a></li>
+                                <li><a class="dropdown-item" href="/md-ms-bihar">Bihar</a></li>
+                                <li><a class="dropdown-item" href="/md-ms-uttar-pradesh">Uttar Pradesh</a></li>
+                                <li><a class="dropdown-item" href="/md-ms-karnataka">Karnataka</a></li>
+                                <li><a class="dropdown-item" href="/md-ms-deemed">Deemed University</a></li>
                             </ul>
                         </li>
                         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="contact-us.php">Contact Us</a>
+                            <a class="nav-link underline" href="/contact-us">Contact Us</a>
                         </li>
                       </ul>
                   </div>
@@ -148,7 +148,7 @@
                     <div class="col-md-12"> 
                         <h5 data-aos="fade-right" data-aos-duration="1000">Are you ready to take the first step toward your<span> dream medical career?</span></h5>
                         <p data-aos="fade-left" data-aos-duration="1000">Embarking on a medical career is both exhilarating and challenging. At EICS, we focus on making the first step easy and hassle-free by providing personalized career counseling, comprehensive assessments from our expert team, and a streamlined admission process.</p>
-                        <div class="btn-new" data-aos="fade-right" data-aos-duration="1000"><a class="cstm-btn" href="about-us.php">Read More</a></div>
+                        <div class="btn-new" data-aos="fade-right" data-aos-duration="1000"><a class="cstm-btn" href="/about-us">Read More</a></div>
                   </div>
                   </div>
               </div>
@@ -160,7 +160,7 @@
                       <div class="col-md-12"> 
                           <h5 data-aos="fade-right" data-aos-duration="1000">Admission in UG Medical Courses - <span>MBBS & BDS</span></h5>
                           <p data-aos="fade-left" data-aos-duration="1000">Gateway to becoming a doctor lies in securing admission to undergraduate medical courses. The journey is much easier with expert guidance from EICS.</p>
-                          <div class="btn-new" data-aos="fade-right" data-aos-duration="1000"><a class="cstm-btn" href="mbbs.php">Read More</a></div>
+                          <div class="btn-new" data-aos="fade-right" data-aos-duration="1000"><a class="cstm-btn" href="/mbbs">Read More</a></div>
                       </div>
                   </div>
               </div>
@@ -172,7 +172,7 @@
                       <div class="col-md-12"> 
                           <h5 data-aos="fade-right" data-aos-duration="1000">Admission in PG Medical Courses -<span>MS & MD</span></h5>
                           <p data-aos="fade-left" data-aos-duration="1000">Aspirants who are determined to postgraduate in medical courses, <br> get the best consultation and hassle-free admission process at EICS</p>
-                          <div class="btn-new" data-aos="fade-right" data-aos-duration="1000"><a class="cstm-btn" href="md-ms.php">Read More</a></div>
+                          <div class="btn-new" data-aos="fade-right" data-aos-duration="1000"><a class="cstm-btn" href="/md-ms">Read More</a></div>
                       </div>
                   </div>
               </div>
@@ -393,7 +393,7 @@
     </p>
     </div>
     </div> -->
-    <a class="cstm-btn" href="about-us.php">Read More</a>
+    <a class="cstm-btn" href="/about-us">Read More</a>
     </div>
     </div>
     </div>
@@ -791,7 +791,7 @@
     </div>
     <div class="col-xl-3 col-lg-5 col-md-5">
     <div class="it-cta-button text-md-end">
-        <a class="cstm-btn" href="about-us.php">More About Us</a>
+        <a class="cstm-btn" href="/about-us">More About Us</a>
     </div>
     </div>
     </div>
@@ -818,7 +818,7 @@
             <div class="col-md-4">
             <div class="latestnewscard">
             <div class="latestnewsimg">
-            <a href="blog-details-1.php">
+            <a href="/blog-details-1">
             <img src="images/blog-post-1.jpg" loading="lazy" alt=""/>
             </a>
             </div>
@@ -831,18 +831,18 @@
                     </h5>
                 </div>
            
-            <h4><a href="blog-details-1.php">Conquer Your Dreams With EICS: Education India Career Services</a></h4>
+            <h4><a href="/blog-details-1">Conquer Your Dreams With EICS: Education India Career Services</a></h4>
             <p>
                 Is saving lives your passion? Your aspiration to become a doctor may come true with EICS.
             </p>
-            <a href="blog-details-1.php" class="latestnewslinkdesign">Read More<i class="fas fa-caret-right"></i></a>
+            <a href="/blog-details-1" class="latestnewslinkdesign">Read More<i class="fas fa-caret-right"></i></a>
             </div>
             </div>
             </div>
             <div class="col-md-4">
             <div class="latestnewscard">
             <div class="latestnewsimg">
-                <a href="blog-details-2.php">
+                <a href="/blog-details-2">
                     <img src="images/blog-details-4.png" loading="lazy" alt=""/>
                     </a>
             </div>
@@ -855,18 +855,18 @@
                     </h5>
                 </div>
            
-            <h4><a href="blog-details-2.php">Medical College Admission Everything You Need to Know</a></h4>
+            <h4><a href="/blog-details-2">Medical College Admission Everything You Need to Know</a></h4>
             <p>
                 A career in the medical profession is fascinating as well as challenging. Following the challenges of an MBBS degree, one encounters numerous career prospects compared to other bachelor’s degrees. MBBS is a five-year bachelor's degree course in which students learn about human anatomy, physiology, and pharmacology. It is the first step for the students to become doctors.
             </p>
-            <a href="blog-details-2.php" class="latestnewslinkdesign">Read More<i class="fas fa-caret-right"></i></a>
+            <a href="/blog-details-2" class="latestnewslinkdesign">Read More<i class="fas fa-caret-right"></i></a>
             </div>
             </div>
             </div>
             <div class="col-md-4">
             <div class="latestnewscard">
             <div class="latestnewsimg">
-                <a href="blog-details-3.php">
+                <a href="/blog-details-3">
                     <img src="images/blog-details-new-3.jpg" loading="lazy" alt=""/>
                     </a>
             </div>
@@ -879,17 +879,17 @@
                     </h5>
                 </div>
            
-                <h4><a href="blog-details-3.php">The Ultimate Guide to Navigating Medical College Admissions</a></h4>
+                <h4><a href="/blog-details-3">The Ultimate Guide to Navigating Medical College Admissions</a></h4>
                 <p>
                     Have you ever dreamt of becoming a Doctor but need help figuring out where to start? There are many UG and PG courses available to pursue a career in Medicine and gain admission to medical colleges. But for that, you need to know how to pursue the career of your dreams.
                 </p>
-            <a href="blog-details-3.php" class="latestnewslinkdesign">Read More<i class="fas fa-caret-right"></i></a>
+            <a href="/blog-details-3" class="latestnewslinkdesign">Read More<i class="fas fa-caret-right"></i></a>
             </div>
             </div>
             </div>
             </div>
             <div class="button-area text-center">
-                <a class="cstm-btn" href="blog.php">View More</a>
+                <a class="cstm-btn" href="/blog">View More</a>
             </div>
     </div>
 </section>

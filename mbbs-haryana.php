@@ -97,7 +97,7 @@
             </p>
             <div class="col-md-12">
                 <div class="button-area text-center">
-                    <a class="cstm-btn" href="contact-us.php">
+                    <a class="cstm-btn" href="/contact-us">
                         Contact Us
                     </a>
                 </div>

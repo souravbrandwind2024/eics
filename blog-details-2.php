@@ -161,19 +161,19 @@
                 <div class="wgs-content">
                     <ul class="blog-recent">
                         <li>
-                            <a href="blog-details-1.php">
+                            <a href="/blog-details-1">
                                 <img src="images/recent-post-1.jpg" loading="lazy" alt="">
                                 <p>Conquer Your Dreams With EICS: Education India Career Services</p>
                             </a>
                         </li>
                         <li>
-                            <a href="blog-details-2.php">
+                            <a href="/blog-details-2">
                                 <img src="images/recent-post-2.jpg" loading="lazy" alt="">
                                 <p>Medical College Admission Everything You Need to Know</p>
                             </a>
                         </li>
                         <li>
-                            <a href="blog-details-3.php">
+                            <a href="/blog-details-3">
                                 <img src="images/recent-post-3.jpg" loading="lazy" alt="">
                                 <p>
                                     The Ultimate Guide to Navigating Medical College Admissions
@@ -183,13 +183,13 @@
 
 
                         <li>
-                            <a href="blog-details-1.php">
+                            <a href="/blog-details-1">
                                 <img src="images/recent-post-4.jpg" loading="lazy" alt="">
                                 <p>Conquer Your Dreams With EICS: Education India Career Services</p>
                             </a>
                         </li>
                         <li>
-                            <a href="blog-details-2.php">
+                            <a href="/blog-details-2">
                                 <img src="images/recent-post-5.jpg" loading="lazy" alt="">
                                 <p>Medical College Admission Everything You Need to Know</p>
                             </a>
@@ -236,7 +236,7 @@
             </p>
             <div class="col-md-12">
                 <div class="button-area text-center">
-                    <a class="cstm-btn" href="contact-us.php">
+                    <a class="cstm-btn" href="/contact-us">
                         Contact Us
                     </a>
                 </div>

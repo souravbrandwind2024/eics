@@ -70,23 +70,23 @@
                                 <a class="nav-link underline" href="/">Home</a>
                             </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="about-us.php">About</a>
+                              <a class="nav-link underline" href="/about-us">About</a>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                            <a class="nav-link underline" href="services.php">Services</a>
+                            <a class="nav-link underline" href="/services">Services</a>
                         </li>
                             <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                 <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                    aria-expanded="false"> MBBS<span><i class="fa fa-chevron-down"></i></span></a>
                                    <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="mbbs-west-bengal.php">West Bengal</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-bihar.php">Bihar</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-uttar-pradesh.php">Uttar Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-andhra-pradesh.php">Andhra Pradesh</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-haryana.php">Haryana</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-karnataka.php">Karnataka</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-kerala.php">Kerala</a></li>
-                                    <li><a class="dropdown-item" href="mbbs-deemed.php">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="/mbbs-west-bengal">West Bengal</a></li>
+                                    <li><a class="dropdown-item" href="/mbbs-bihar">Bihar</a></li>
+                                    <li><a class="dropdown-item" href="/mbbs-uttar-pradesh">Uttar Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="/mbbs-andhra-pradesh">Andhra Pradesh</a></li>
+                                    <li><a class="dropdown-item" href="/mbbs-haryana">Haryana</a></li>
+                                    <li><a class="dropdown-item" href="/mbbs-karnataka">Karnataka</a></li>
+                                    <li><a class="dropdown-item" href="/mbbs-kerala">Kerala</a></li>
+                                    <li><a class="dropdown-item" href="/mbbs-deemed">Deemed University</a></li>
                                 </ul>
                             </li>
                             <!-- <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
@@ -116,15 +116,15 @@
                               <a class="nav-link underline dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
                                  aria-expanded="false"> MD / MS<span><i class="fa fa-chevron-down"></i></span></a>
                                  <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="md-ms-west-bengal.php">West Bengal</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-bihar.php">Bihar</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-uttar-pradesh.php">Uttar Pradesh</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-karnataka.php">Karnataka</a></li>
-                                      <li><a class="dropdown-item" href="md-ms-deemed.php">Deemed University</a></li>
+                                    <li><a class="dropdown-item" href="/md-ms-west-bengal">West Bengal</a></li>
+                                      <li><a class="dropdown-item" href="/md-ms-bihar">Bihar</a></li>
+                                      <li><a class="dropdown-item" href="/md-ms-uttar-pradesh">Uttar Pradesh</a></li>
+                                      <li><a class="dropdown-item" href="/md-ms-karnataka">Karnataka</a></li>
+                                      <li><a class="dropdown-item" href="/md-ms-deemed">Deemed University</a></li>
                                   </ul>
                           </li>
                           <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                              <a class="nav-link underline" href="contact-us.php">Contact Us</a>
+                              <a class="nav-link underline" href="/contact-us">Contact Us</a>
                           </li>
                         </ul>
                     </div>

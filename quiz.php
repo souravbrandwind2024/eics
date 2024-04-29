@@ -534,7 +534,7 @@
 
                 <div class="submit-btn-area" data-toggle="modal" data-target="#exampleModalCenter">
                     <button v-if="result === null" @click="generateResult" type="button" class="cstm-btn">Know Your Score</button>
-                    <a v-else href="/quiz.php" class="cstm-btn">Start New Quiz</a>
+                    <a v-else href="//quiz" class="cstm-btn">Start New Quiz</a>
                 </div>
             </div>
         </div>
