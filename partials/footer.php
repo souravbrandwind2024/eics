@@ -162,7 +162,30 @@
     </div>
 </section>
 <!------ scroll-to-top-area-end ------->
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Education India Career Services",
+  "image": "https://www.eicsindia.org/images/logo.png",
+  "@id": "",
+  "url": "https://www.eicsindia.org/",
+  "telephone": "89459 47929",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bidhannagar, D103, Yuri Gagarin Path, above Indian Bank, Bidhannagar, Durgapur, West Bengal 713212",
+    "addressLocality": "Durgapur",
+    "postalCode": "713212",
+    "addressCountry": "+91",
+    "addressRegion": "19"
+  },
+  "sameAs": [
+    "https://www.facebook.com/educationindiacareerserveses/",
+    "https://www.instagram.com/education_india_career/",
+    "https://www.youtube.com/@educationindiacareerservices"
+  ]
+}
+</script>
 
 <script src="js/plugins/jquery-3.4.1.min.js"></script>
 
