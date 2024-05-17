@@ -3388,6 +3388,9 @@ margin-left: 10px;
   color: #fff;
   box-shadow: 0px 5px 35px 0px rgba(0, 0, 0, 0.3);
 }
+.mbbs-area .nav-tabs .nav-link:hover{
+  border-color: unset !important;
+}
 .mbbs-area .tab-content .tab-pane .content-tab{
   padding: 22px;
   background: #e7edf8;
@@ -3938,6 +3941,7 @@ img.wrap {
   margin: 12px 0 0 0;
   color: #323232;
   font-weight: 600;
+  text-transform: uppercase;
 }
 .post-entry ul li i{
   font-size: 6px;

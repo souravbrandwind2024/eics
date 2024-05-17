@@ -33,6 +33,12 @@
                 <a class="nav-link" id="kerala-tab" data-toggle="tab" href="#kerala" role="tab" aria-controls="kerala" aria-selected="false">kerala</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" id="chts-tab" data-toggle="tab" href="#chts" role="tab" aria-controls="chts" aria-selected="false">Chattisgarh</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="mp-tab" data-toggle="tab" href="#mp" role="tab" aria-controls="mp" aria-selected="false">Madhya Pradesh</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" id="deemed-tab" data-toggle="tab" href="#deemed" role="tab" aria-controls="deemed" aria-selected="false">deemed University</a>
               </li>
           </ul>
@@ -1864,6 +1870,246 @@
                         </div>
                         <div class="list-info last" style="background-color: transparent;">
                         </div>
+                        </div>
+                        </div>
+            </div>
+            <div class="tab-pane fade" id="chts" role="tabpanel" aria-labelledby="chts-tab">
+                <div class="content-tab">
+                    <div class="list-area">
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://careeredwise.com/wp-content/uploads/2020/10/rims-raipur.webp" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://rimsindia.ac.in/includes/html/index.php?pageid=76" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://rimsindia.ac.in/includes/html/index.php?pageid=76" target="_blank">
+                                    Raipur Institute of medical sciences
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://mbbscouncil.com/wp-content/uploads/2022/06/Shri-Balaji-Institute-of-Medical-Science-Raipur-Campus.jpg" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://shribalajimedicalcollege.com/academics/course/mbbs-under-graduate" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://shribalajimedicalcollege.com/academics/course/mbbs-under-graduate" target="_blank">
+                                    Shri Balaji Institute of Medical science
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://argroupofeducation.com/wp-content/uploads/2024/01/Shri-Shankaracharya-Institute-of-Medical-Science-Bhilai-jpg.webp" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://www.ssimsb.ac.in/courses/courses-offered" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://www.ssimsb.ac.in/courses/courses-offered" target="_blank">
+                                    Shri Shankaracharya Institute of medical science
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info last" style="background-color: transparent;">
+                      
+                        </div>
+                        </div>
+                        </div>
+            </div>
+            <div class="tab-pane fade" id="mp" role="tabpanel" aria-labelledby="mp-tab">
+                <div class="content-tab">
+                    <div class="list-area">
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://www.moksh16.com/uploads/images/aims-dewas.webp" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="http://www.amaltasgroup.co.in/courses.asp" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="http://www.amaltasgroup.co.in/courses.asp" target="_blank">
+                                    Amaltas Institute of Medical Sciences, Dewas
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://www.moksh16.com/uploads/images/cmch-bhopal.webp" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://cmchbhopal.com/course-offered/u-g-bachelor-of-medicine-and-bachelor-of-surgery-mbbs/" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://cmchbhopal.com/course-offered/u-g-bachelor-of-medicine-and-bachelor-of-surgery-mbbs/" target="_blank">
+                                    Chirayu Medical College and Hospital, Bairagarh,Bhopal
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://www.collegebatch.com/static/clg-gallery/index-medical-college-hospital-research-centre-indore-244267.jpg" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://indexgroup.co.in/academics.asp" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://indexgroup.co.in/academics.asp" target="_blank">
+                                    Index Medical College Hospital & Research Centre, Indore
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://indorelnmc.com/wp-content/uploads/2021/08/LNCT-Medical-College-min.jpg" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://indorelnmc.com/" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://indorelnmc.com/" target="_blank">
+                                    LNCT Medical College & Sewakunj Hospital, Indore
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://careeredwise.com/wp-content/uploads/2020/04/ln-medical-college-bhopal-1.webp" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://lnctu.ac.in/international-student-courses-fees/" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://lnctu.ac.in/international-student-courses-fees/" target="_blank">
+                                    L.N. Medical College and Research Centre, Bhopal
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://images.collegedunia.com/public/college_data/images/campusimage/14753017031445428538PCMSRCBHOPAL_NEW.jpg" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://www.peoplesuniversity.edu.in/medical/?page_id=357" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://www.peoplesuniversity.edu.in/medical/?page_id=357" target="_blank">
+                                    Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://www.orchidfoundation.info/sites/default/files/2020-07/RKDF-Medical-College-Hospit.jpg" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://rkdfmedicalcollege.com/mbbs-course/" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://rkdfmedicalcollege.com/mbbs-course/" target="_blank">
+                                    RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://www.moksh16.com/uploads/images/rdgmc-ujjain.webp" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://rdgmc.edu.in/degree-course" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://rdgmc.edu.in/degree-course" target="_blank">
+                                    Ruxmaniben Deepchand Gardi Medical College, Ujjain
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info">
+                            <div class="container-all">
+                                <img class="wrap" src="https://ucsworld.com/wp-content/uploads/2018/06/Sri-Aurobindo-Institute-of_Medical_Sciences.jpg" loading="lazy" alt=""/>
+                                <div class="overlay"></div>
+                                <div class="button">
+                                    <a href="https://sriaurobindouniversity.edu.in/" target="_blank">
+                                        Click here
+                                    </a>
+                                </div>
+                              </div>
+                              <div class="hospital-header">
+                                <h3>
+                                    <a href="https://sriaurobindouniversity.edu.in/" target="_blank">
+                                    Sri Aurobindo Medical College and Post Graduate Institute, Indore
+                                    </a>    
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="list-info last" style="background-color: transparent;">
+                      
+                        </div>
+                        <div class="list-info last" style="background-color: transparent;">
+                      
+                      </div>
+                      <div class="list-info last" style="background-color: transparent;">
+                      
+                      </div>
                         </div>
                         </div>
             </div>

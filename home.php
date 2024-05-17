@@ -97,9 +97,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                   <li><a class="dropdown-item" href="/mbbs-bihar">Bihar</a></li>
                                   <li><a class="dropdown-item" href="/mbbs-uttar-pradesh">Uttar Pradesh</a></li>
                                   <li><a class="dropdown-item" href="/mbbs-andhra-pradesh">Andhra Pradesh</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-mp">Madhya Pradesh</a></li>
                                   <li><a class="dropdown-item" href="/mbbs-haryana">Haryana</a></li>
                                   <li><a class="dropdown-item" href="/mbbs-karnataka">Karnataka</a></li>
                                   <li><a class="dropdown-item" href="/mbbs-kerala">Kerala</a></li>
+                                  <li><a class="dropdown-item" href="/mbbs-chts">Chattisgarh</a></li>
                                   <li><a class="dropdown-item" href="/mbbs-deemed">Deemed University</a></li>
                               </ul>
                           </li>
