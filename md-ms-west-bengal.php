@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="heading">
-                    <h1>Medical Dreams with MD/MS Programme</h1>
+                    <h1>MD/MS Programme in West Bengal</h1>
                 </div>
             </div>
         </div>
