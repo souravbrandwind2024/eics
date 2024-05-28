@@ -12,7 +12,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
   <link rel="apple-touch-icon" href="images/favicon.png">
     <!-- canonical-tags-area -->
-    <link rel=“canonical” href='https://eicsindia.org/' />
+    <link rel="canonical" href="https://eicsindia.org/"/>
     <!-- bootstrap css -->
     <link href="css/plugins/bootstrap.min.css" rel="stylesheet">
     <!-- fontawesome css -->
