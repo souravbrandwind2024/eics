@@ -6,11 +6,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>EICS MBBS, BDS, MD & MS Career Courses Admission in Durgapur</title>
+    <title>EICS MBBS,MD & MS Career Courses Admission in Durgapur</title>
     <meta name="description" content="EICS best education career service in Durgapur.To start your career professional  medical courses admission on MBBS, BDS, MS & MD in India's top private colleges. ">
   <!-- favicon icon -->
   <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
   <link rel="apple-touch-icon" href="images/favicon.png">
+    <!-- canonical-tags-area -->
+    <link rel=“canonical” href='https://eicsindia.org/' />
     <!-- bootstrap css -->
     <link href="css/plugins/bootstrap.min.css" rel="stylesheet">
     <!-- fontawesome css -->
@@ -160,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="carousel-caption">
                   <div class="row">
                     <div class="col-md-12"> 
-                        <h5 data-aos="fade-right" data-aos-duration="1000">Are you ready to take the first step toward your<span> dream medical career?</span></h5>
+                        <h1 data-aos="fade-right" data-aos-duration="1000">Are you ready to take the first step toward your<span> dream medical career?</span></h1>
                         <p data-aos="fade-left" data-aos-duration="1000">Embarking on a medical career is both exhilarating and challenging. At EICS, we focus on making the first step easy and hassle-free by providing personalized career counseling, comprehensive assessments from our expert team, and a streamlined admission process.</p>
                         <div class="btn-new" data-aos="fade-right" data-aos-duration="1000"><a class="cstm-btn" href="/about-us">Read More</a></div>
                   </div>
@@ -172,7 +174,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="carousel-caption">
                   <div class="row">
                       <div class="col-md-12"> 
-                          <h5 data-aos="fade-right" data-aos-duration="1000">Admission in UG Medical Courses - <span>MBBS & BDS</span></h5>
+                          <h1 data-aos="fade-right" data-aos-duration="1000">Admission in UG Medical Courses - <span>MBBS & BDS</span></h1>
                           <p data-aos="fade-left" data-aos-duration="1000">Gateway to becoming a doctor lies in securing admission to undergraduate medical courses. The journey is much easier with expert guidance from EICS.</p>
                           <div class="btn-new" data-aos="fade-right" data-aos-duration="1000"><a class="cstm-btn" href="/mbbs">Read More</a></div>
                       </div>
@@ -184,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="carousel-caption bg-hide">
                   <div class="row">
                       <div class="col-md-12"> 
-                          <h5 data-aos="fade-right" data-aos-duration="1000">Admission in PG Medical Courses -<span>MS & MD</span></h5>
+                          <h1 data-aos="fade-right" data-aos-duration="1000">Admission in PG Medical Courses -<span>MS & MD</span></h1>
                           <p data-aos="fade-left" data-aos-duration="1000">Aspirants who are determined to postgraduate in medical courses, <br> get the best consultation and hassle-free admission process at EICS</p>
                           <div class="btn-new" data-aos="fade-right" data-aos-duration="1000"><a class="cstm-btn" href="/md-ms">Read More</a></div>
                       </div>
@@ -384,9 +386,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="it-about-right-box">
     <div class="it-about-title-box mb-20">
     <span class="it-section-subtitle">about us</span>
-    <h4 class="it-section-title">Education India Career Services (EICS)
+    <h2 class="it-section-title why-sec">Education India Career Services (EICS)
     <!-- <br> From anywhere -->
-    </h4>
+    </h2>
     </div>
     <div class="it-about-text pb-10">
         <p>
@@ -424,7 +426,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="row">
             <div class="col-md-12">
                 <div class="heading">
-                    <h1>WHY EICS?</h1>
+                    <h2 class="why-sec">WHY EICS?</h2>
                     <p class="short-txt second">
                         Why Choose Education India Career Services (EICS)?
                     </p>
@@ -712,7 +714,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="testimonial" class="section">
     <div class="container">
         <div class="heading">
-            <h1>Creating A Community Of <br> Life Long Learners.</h1>
+            <h3>Creating A Community Of <br> Life Long Learners.</h3>
         </div>
         <div class="row">
 			<div id="news">
@@ -819,7 +821,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="row">
             <div class="col-md-12">
                 <div class="heading">
-                    <h1>Blog Posts</h1>
+                    <h3>Blog Posts</h3>
                 </div>
                 <!-- <div class="content-part">
                     <p>
@@ -915,7 +917,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="row">
             <div class="col-md-12">
                 <div class="heading">
-                    <h1>Contact Us</h1>
+                    <h4>Contact Us</h4>
                 </div>
             </div>
         </div>

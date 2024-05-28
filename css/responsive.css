@@ -229,6 +229,18 @@
 }
 /* Small devices (landscape phones, less than 768px) */
 @media (max-width: 767px) {
+  .heading h4 {
+    font-size: 19px;
+    line-height: 29px;
+}
+  .heading h3 {
+    font-size: 19px;
+    line-height: 29px;
+}
+  .heading h2.why-sec{
+    font-size: 19px;
+        line-height: 29px;
+  }
   .it-footer-list ul li a{
     font-size: 14px;
     line-height: 24px;
@@ -876,7 +888,7 @@
     margin-bottom: 5px;
     margin-top: 3px;
   }
-  #banner .carousel-caption h5 {
+  #banner .carousel-caption h1 {
     font-size: 13px;
     line-height: 19px;
     margin-bottom: 3px;
@@ -885,7 +897,7 @@
     /* top: 13%; */
     left: 36%;
   }
-  #banner .carousel-caption h5 span{
+  #banner .carousel-caption h1 span{
     font-size: 17px;
     line-height: 25px;
   }

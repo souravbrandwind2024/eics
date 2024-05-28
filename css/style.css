@@ -689,7 +689,7 @@ input:-webkit-autofill:focus {
 .girl-hover img {
   animation-delay: 0.9s;
 }
-#banner .carousel-caption h5 {
+#banner .carousel-caption h1 {
   text-align: left;
   position: relative;
   color: #ffffff;
@@ -702,7 +702,7 @@ input:-webkit-autofill:focus {
   animation-duration: 2s;
   font-family: "Nunito", sans-serif;
 }
-#banner .carousel-caption h5 span{
+#banner .carousel-caption h1 span{
   font-family: "Signika", sans-serif;
   font-size: 41px;
 }
@@ -1302,7 +1302,7 @@ input:-webkit-autofill:focus {
 /* ----- overall-us-area-end ------- */
 
 /* ----- testimonial-area-start ------- */
-#testimonial .heading h1 {
+#testimonial .heading h3 {
   color: #ffffff;
 }
 #testimonial .heading h1::after {
@@ -4473,4 +4473,37 @@ h3.orange-final-blog {
   font-weight: 600;
   font-size: 14px;
   text-transform: capitalize;
+}
+.heading h2.why-sec {
+  text-transform: capitalize;
+  font-weight: 600;
+  color: #000000;
+  position: relative;
+  display: inline-block;
+  padding: 0 0 5px 0;
+  margin: 10px 0 0;
+  font-size: 25px;
+  line-height: 45px;
+}
+.heading h3 {
+  text-transform: capitalize;
+  font-weight: 600;
+  color: #000000;
+  position: relative;
+  display: inline-block;
+  padding: 0 0 5px 0;
+  margin: 10px 0 0;
+  font-size: 25px;
+  line-height: 45px;
+}
+.heading h4 {
+  text-transform: capitalize;
+  font-weight: 600;
+  color: #000000;
+  position: relative;
+  display: inline-block;
+  padding: 0 0 5px 0;
+  margin: 10px 0 0;
+  font-size: 25px;
+  line-height: 45px;
 }
