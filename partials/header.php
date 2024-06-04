@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>EICS MBBS, BDS, MD & MS Career Courses Admission in Durgapur</title>
-    <meta name="description" content="EICS best education career service in Durgapur.To start your career professional  medical courses admission on MBBS, BDS, MS & MD in India's top private colleges. ">
+    <title><?= isset($title) ? $title : 'EICS MBBS, BDS, MD & MS Career Courses Admission in Durgapur'; ?></title>
+    <meta name="description" content="<?= isset($meta) ? $meta : 'EICS best education career service in Durgapur.To start your career professional  medical courses admission on MBBS, BDS, MS & MD in India\'s top private colleges.' ?>">
   <!-- favicon icon -->
   <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
   <link rel="apple-touch-icon" href="images/favicon.png">

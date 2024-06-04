@@ -1,3 +1,7 @@
+<?php 
+    $title = 'Best MBBS Medical Course consultancy in West Bengal';
+    $meta = 'EICS provides the best MBBS professional medical course admission consultancy in West Bengal.';
+?>
 <?php include 'partials/header.php'; ?>
 
 <!-- mbbs-area-start -->
